@@ -3,112 +3,112 @@ layout: null
 title: TurtleSec Homepage
 description: Consulting Services
 sitemap:
-    priority: 1.0
-    lastmod: 2017-11-02
-    changefreq: weekly
+priority: 1.0
+lastmod: 2017-11-02
+changefreq: weekly
 ---
 <!DOCTYPE HTML>
 <!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+    Massively by HTML5 UP
+    html5up.net | @ajlkn
+    Jekyll integration by somiibo.com
+    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+  -->
 <html>
-	<head>
+  <head>
     {% include head.html %}
 
 
-	</head>
-	<body class="is-loading">
+  </head>
+  <body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
+    <!-- Wrapper -->
+    <div id="wrapper" class="fade-in">
 
-				<!-- Intro -->
-					<div id="intro">
-            <h1>{{site.title}}</h1>
-						<h2>Consulting</h2>
-						<p>Homepage</p>
-						<ul class="actions">
-							<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-						</ul>
-					</div>
+      <!-- Intro -->
+      <div id="intro">
+        <h1>{{site.title}}</h1>
+	<h2>Consulting</h2>
+	<p>Homepage</p>
+	<ul class="actions">
+	  <li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
+	</ul>
+      </div>
 
-				<!-- Header -->
-					<header id="header">
-						<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-					</header>
+      <!-- Header -->
+      <header id="header">
+	<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+      </header>
 
-				<!-- Nav -->
-					<nav id="nav">
+      <!-- Nav -->
+      <nav id="nav">
 
-            {% include nav.html %}
+        {% include nav.html %}
 
-						<ul class="icons">
-              <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-              <li><a href="https://www.linkedin.com/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
-              <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-						</ul>
-					</nav>
+	<ul class="icons">
+          <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
+          <li><a href="https://www.linkedin.com/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
+          <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+	</ul>
+      </nav>
 
-				<!-- Main -->
-					<div id="main">
-						<!-- Featured Post -->
-							<article class="post featured">
-								<header class="major">
-									<h2><a href="#">TurtleSec Consulting</a></h2>
-									<p>Professional Senior Consultants</p>
-								</header>
-								<a href="#" class="image main"><img src="{{ "/images/logo.jpg" | absolute_url }}" alt="" /></a>
-								<p>Consulting services in multiple programming languages</p>
+      <!-- Main -->
+      <div id="main">
+	<!-- Featured Post -->
+	<article class="post featured">
+	  <header class="major">
+	    <h2><a href="#">TurtleSec Consulting</a></h2>
+	    <p>Professional Senior Consultants</p>
+	  </header>
+	  <a href="#" class="image main"><img src="{{ "/images/logo.jpg" | absolute_url }}" alt="" /></a>
+	  <p>Consulting services in multiple programming languages</p>
 
-							</article>
+	</article>
 
-						<!-- Posts -->
-							<section class="posts">
-                {% for post in site.posts limit:3 %}
-                {% assign mod3 = forloop.index | modulo: 3 %}
-  								<article>
-  									<header>
-  										<span class="date">{{ post.date | date_to_string }}</span>
-  										<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-  									</header>
-  									<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-  									<p>{{ post.excerpt }}</p>
-  									<ul class="actions">
-  										<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-  									</ul>
-  								</article>
-                  {% if mod3 == 0 %}
-                  <article>
-  									<header>
-  										<h2><a href="#">Sponsored</a></h2>
-  									</header>
+	<!-- Posts -->
+	<section class="posts">
+          {% for post in site.posts limit:3 %}
+          {% assign mod3 = forloop.index | modulo: 3 %}
+  	  <article>
+  	    <header>
+  	      <span class="date">{{ post.date | date_to_string }}</span>
+  	      <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+  	    </header>
+  	    <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+  	    <p>{{ post.excerpt }}</p>
+  	    <ul class="actions">
+  	      <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+  	    </ul>
+  	  </article>
+          {% if mod3 == 0 %}
+          <article>
+  	    <header>
+  	      <h2><a href="#">Sponsored</a></h2>
+  	    </header>
 
-  								</article>
-                  {% endif %}
-                {% endfor %}
+  	  </article>
+          {% endif %}
+          {% endfor %}
 
-							</section>
+	</section>
 
-						<!-- Footer -->
-							<footer>
-                <ul class="actions">
-                  <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-                </ul>
-							</footer>
+	<!-- Footer -->
+	<footer>
+          <ul class="actions">
+            <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+          </ul>
+	</footer>
 
-					</div>
+      </div>
 
-				<!-- Footer -->
-        {% include foot.html %}
+      <!-- Footer -->
+      {% include foot.html %}
 
-			</div>
+    </div>
 
-		<!-- Scripts -->
-		{% include scripts-main.html %}
+    <!-- Scripts -->
+    {% include scripts-main.html %}
     {% include tracking.html %}
 
-	</body>
+  </body>
 </html>
