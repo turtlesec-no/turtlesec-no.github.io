@@ -9,6 +9,7 @@
 
 /* Reset */
 :root {
+    --main-fg-color: #ffffff;
     --main-bg-color: coral; 
 }
 
@@ -1672,7 +1673,7 @@
 		}
 
 	body {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 	body, input, select, textarea {
@@ -1816,11 +1817,11 @@
 	}
 
 	input, select, textarea {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 	a {
-		color: #212931;
+		color: var(--main-bg-color);
 		border-bottom-color: rgba(33, 41, 49, 0.5);
 	}
 
@@ -1830,11 +1831,11 @@
 		}
 
 	strong, b {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 	blockquote {
@@ -2025,8 +2026,8 @@
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #212931;
-		color: #212931 !important;
+		box-shadow: inset 0 0 0 2px var(--main-bg-color);
+		color: var(--main-bg-color) !important;
 	}
 
 		input[type="submit"]:hover,
@@ -2043,9 +2044,9 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #212931;
+			background-color: var(--main-bg-color);
 			box-shadow: none;
-			color: var(--main-bg-color) !important;
+			color: var(--main-fg-color) !important;
 		}
 
 			input[type="submit"].special:hover,
@@ -2324,7 +2325,7 @@
 	}
 
 	label {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 	input[type="text"],
@@ -2344,8 +2345,8 @@
 		}
 
 	select option {
-		background-color: var(--main-bg-color);
-		color: #212931;
+		background-color: var(--main-fg-color);
+		color: var(--main-bg-color);
 	}
 
 	.select-wrapper:before {
@@ -2354,7 +2355,7 @@
 
 	input[type="checkbox"] + label,
 	input[type="radio"] + label {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 		input[type="checkbox"] + label:before,
@@ -2364,9 +2365,9 @@
 
 	input[type="checkbox"]:checked + label:before,
 	input[type="radio"]:checked + label:before {
-		background-color: #212931;
-		border-color: #212931;
-		color: var(--main-bg-color);
+		background-color: var(--main-bg-color);
+		border-color: var(--main-bg-color);
+		color: var(--main-fg-color);
 	}
 
 	input[type="checkbox"]:focus + label:before,
@@ -2892,7 +2893,7 @@
 		}
 
 	table th {
-		color: #212931;
+		color: var(--main-bg-color);
 	}
 
 	table thead {
@@ -2993,7 +2994,7 @@
 	}
 
 	.pagination a {
-		color: #212931 !important;
+		color: var(--main-bg-color) !important;
 	}
 
 		.pagination a:hover {
@@ -3032,7 +3033,7 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
+			background-color: var(--main-bg-color);
 			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
@@ -3086,7 +3087,7 @@
 /* Intro */
 
 	#intro {
-		color: var(--main-bg-color);
+		color: var(--main-fg-color);
 		padding: 8rem 4rem 6rem 4rem ;
 		-moz-align-items: center;
 		-webkit-align-items: center;
@@ -3116,11 +3117,11 @@
 	}
 
 		#intro input, #intro select, #intro textarea {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#intro a {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3130,24 +3131,24 @@
 			}
 
 		#intro strong, #intro b {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#intro blockquote {
-			border-left-color: var(--main-bg-color);
+			border-left-color: var(--main-fg-color);
 		}
 
 		#intro code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: var(--main-bg-color);
+			border-color: var(--main-fg-color);
 		}
 
 		#intro hr {
-			border-bottom-color: var(--main-bg-color);
+			border-bottom-color: var(--main-fg-color);
 		}
 
 		#intro input[type="submit"],
@@ -3156,8 +3157,8 @@
 		#intro button,
 		#intro .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px var(--main-bg-color);
-			color: var(--main-bg-color) !important;
+			box-shadow: inset 0 0 0 2px var(--main-fg-color);
+			color: var(--main-fg-color) !important;
 		}
 
 			#intro input[type="submit"]:hover,
@@ -3174,7 +3175,7 @@
 			#intro input[type="button"].special,
 			#intro button.special,
 			#intro .button.special {
-				background-color: var(--main-bg-color);
+				background-color: var(--main-fg-color);
 				box-shadow: none;
 				color: #1e252d !important;
 			}
@@ -3298,7 +3299,7 @@
 /* Header */
 
 	#header {
-		color: var(--main-bg-color);
+		color: var(--main-fg-color);
 		-moz-align-items: center;
 		-webkit-align-items: center;
 		-ms-align-items: center;
@@ -3331,11 +3332,11 @@
 	}
 
 		#header input, #header select, #header textarea {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#header a {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3345,24 +3346,24 @@
 			}
 
 		#header strong, #header b {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#header blockquote {
-			border-left-color: var(--main-bg-color);
+			border-left-color: var(--main-fg-color);
 		}
 
 		#header code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: var(--main-bg-color);
+			border-color: var(--main-fg-color);
 		}
 
 		#header hr {
-			border-bottom-color: var(--main-bg-color);
+			border-bottom-color: var(--main-fg-color);
 		}
 
 		#header .logo {
@@ -3375,7 +3376,7 @@
 			-ms-pointer-events: auto;
 			pointer-events: auto;
 			border-style: solid;
-			border-color: var(--main-bg-color);
+			border-color: var(--main-fg-color);
 			border-width: 5px !important;
 			font-family: "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 2.25rem;
@@ -3417,7 +3418,7 @@
 /* Nav */
 
 	#nav {
-		color: var(--main-bg-color);
+		color: var(--main-fg-color);
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3439,7 +3440,7 @@
 	}
 
 		#nav ul.divided li {
-			border-top-color: var(--main-bg-color);
+			border-top-color: var(--main-fg-color);
 		}
 
 		#nav ul.icons li a.icon:hover:before {
@@ -3447,7 +3448,7 @@
 		}
 
 		#nav ul.icons.alt li .icon:before {
-			box-shadow: inset 0 0 0 2px var(--main-bg-color);
+			box-shadow: inset 0 0 0 2px var(--main-fg-color);
 		}
 
 		#nav ul.icons.alt li a.icon:hover:before {
@@ -3455,11 +3456,11 @@
 		}
 
 		#nav input, #nav select, #nav textarea {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#nav a {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -3469,24 +3470,24 @@
 			}
 
 		#nav strong, #nav b {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#nav h1, #nav h2, #nav h3, #nav h4, #nav h5, #nav h6 {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#nav blockquote {
-			border-left-color: var(--main-bg-color);
+			border-left-color: var(--main-fg-color);
 		}
 
 		#nav code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: var(--main-bg-color);
+			border-color: var(--main-fg-color);
 		}
 
 		#nav hr {
-			border-bottom-color: var(--main-bg-color);
+			border-bottom-color: var(--main-fg-color);
 		}
 
 		#nav ul.links {
@@ -3533,7 +3534,7 @@
 					}
 
 				#nav ul.links li.active {
-					background-color: var(--main-bg-color);
+					background-color: var(--main-fg-color);
 				}
 
 					#nav ul.links li.active a {
@@ -3567,7 +3568,7 @@
 /* Main */
 
 	#main {
-		background-color: var(--main-bg-color);
+		background-color: var(--main-fg-color);
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -4189,7 +4190,7 @@
 		}
 
 	#copyright {
-		color: var(--main-bg-color);
+		color: var(--main-fg-color);
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
@@ -4207,11 +4208,11 @@
 	}
 
 		#copyright input, #copyright select, #copyright textarea {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#copyright a {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 			border-bottom-color: rgba(255, 255, 255, 0.5);
 		}
 
@@ -4221,24 +4222,24 @@
 			}
 
 		#copyright strong, #copyright b {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#copyright h1, #copyright h2, #copyright h3, #copyright h4, #copyright h5, #copyright h6 {
-			color: var(--main-bg-color);
+			color: var(--main-fg-color);
 		}
 
 		#copyright blockquote {
-			border-left-color: var(--main-bg-color);
+			border-left-color: var(--main-fg-color);
 		}
 
 		#copyright code {
 			background: rgba(255, 255, 255, 0.075);
-			border-color: var(--main-bg-color);
+			border-color: var(--main-fg-color);
 		}
 
 		#copyright hr {
-			border-bottom-color: var(--main-bg-color);
+			border-bottom-color: var(--main-fg-color);
 		}
 
 		#copyright a {
@@ -4302,7 +4303,7 @@
 		top: 0.75rem;
 		right: 0.75rem;
 		border: 0;
-		color: var(--main-bg-color);
+		color: var(--main-fg-color);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 0.9rem;
 		font-weight: 900;
@@ -4329,11 +4330,11 @@
 		#navPanelToggle.alt {
 			background-color: rgba(255, 255, 255, 0.875);
 			box-shadow: 0 0.125rem 0.75rem 0 rgba(30, 37, 45, 0.25);
-			color: #212931;
+			color: var(--main-bg-color);
 		}
 
 			#navPanelToggle.alt:hover {
-				background-color: var(--main-bg-color);
+				background-color: var(--main-fg-color);
 			}
 
 		@media screen and (max-width: 980px) {
@@ -4364,9 +4365,9 @@
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		display: none;
 		-webkit-overflow-scrolling: touch;
-		background: var(--main-bg-color);
+		background: var(--main-fg-color);
 		box-shadow: none;
-		color: #212931;
+		color: var(--main-bg-color);
 		height: 100%;
 		max-width: 80%;
 		overflow-y: auto;
@@ -4441,7 +4442,7 @@
 			}
 
 			#navPanel .close:hover {
-				color: #212931;
+				color: var(--main-bg-color);
 			}
 
 			@media screen and (max-width: 736px) {
