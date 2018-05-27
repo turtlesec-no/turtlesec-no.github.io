@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to TurtleSec and our new Homepage"
+title:  "Welcome to our new Homepage"
 date:   2018-03-22
 excerpt: "Bootstrapping a company"
 image: "/images/logo.jpg"
