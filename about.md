@@ -22,4 +22,4 @@ TurtleSec was founded in Oslo Norway in March of 2018. The founders Dag Fridtun 
 
 <span class="image left"><img src="{{ "/images/zebra.jpeg" | absolute_url }}" alt="" /></span>
 
-Please reach out to us on Twitter
+Please reach out to us on Twitter or on LinkedIn
