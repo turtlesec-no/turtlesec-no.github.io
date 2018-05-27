@@ -30,9 +30,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
-
 # Social
 analytics-id:       "default"
 twitter:            turtlesec_no
