@@ -1,7 +1,7 @@
 # Site
 title:              TurtleSec
 bio:                'Consulting'
-description:        "Experienced Consultants"
+description:        "Software Consultancy based in Oslo, Norway"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
