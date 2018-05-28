@@ -3,8 +3,26 @@
 
 <title>{{ page.title }}</title>
 <meta name="description" content="{{ page.description }}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.title }}" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="{{ page.image | absolute_url }}" />
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta property="og:site_name" content="{{ site.title | escape }}" />
+<meta property="og:description" content="{{ page.description }}" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="{{ page.description }}" />
+<meta name="twitter:title" content="{{ page.title }}" />
+<meta name="twitter:description" content="{{ page.description }}" />
+<meta name="twitter:url" content="{{ page.url | absolute_url }}" />
+<meta name="twitter:image" content="{{ page.image | absolute_url }}" />
+
+<!-- Google verification for GSuite -->
 <meta name="google-site-verification" content="HQwWDzJcbPk5876p7QnHvqH5fKVXItoii86hYgdk7no" />
 
+<!-- Icon / Theme -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/icon/apple-touch-icon.png" | absolute_url }}">
 <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/icon/favicon-32x32.png" | absolute_url }}">
 <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/icon/favicon-16x16.png" | absolute_url }}">
