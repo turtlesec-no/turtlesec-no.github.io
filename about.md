@@ -7,7 +7,7 @@ sitemap:
     lastmod: 2018-05-27
     changefreq: weekly
 ---
-## About our Site
+## About us
 
 <span class="image left"><img src="{{ "/images/domkirke.jpg" | absolute_url }}" alt="" /></span>
 
