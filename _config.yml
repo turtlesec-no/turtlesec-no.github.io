@@ -4,7 +4,7 @@ bio:                'Consulting'
 description:        "Software Consultancy based in Oslo, Norway"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://turtlesec.no" # the base hostname & protocol for your site
 
 defaults:
 - scope:
