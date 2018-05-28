@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About - TurtleSec
-description: TurtleSec is about trust and skill
+description: A product is a reflection on the culture that creates it. Learn more about who we are and what we believe.
 sitemap:
     priority: 0.7
     lastmod: 2018-05-27
