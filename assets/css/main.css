@@ -3378,13 +3378,12 @@
 			border-style: solid;
 			border-color: var(--main-fg-color);
 			border-width: 5px !important;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: Pacifico, "Source Sans Pro", Helvetica, sans-serif;
 			font-size: 2.25rem;
-			font-weight: 900;
+			font-weight: 400;
 			letter-spacing: 0.075em;
 			line-height: 1;
 			padding: 1rem 1.75rem;
-			text-transform: uppercase;
 			visibility: visible;
 		}
 
