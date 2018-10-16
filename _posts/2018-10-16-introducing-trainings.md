@@ -9,7 +9,7 @@ image: "/images/operahouse-338256_1920.jpg"
 
 ## Secure Coding Practices in C++
 
-Interactive training over 3 days where participants will learn basic exploit development to motivate them to view their code from an attackers perspective. They will get a good overview of the specs in this area and look at using alternative programming constructs to replace once that often occurs in vulnerable code.
+Interactive training over 3 days where participants will learn basic exploit development to motivate them to view their code from an attackers perspective. They will get a good overview of the specs in this area and look at using alternative programming constructs to replace ones that often occurs in vulnerable code.
 
 ## Introduction to C++ for Programmers
 
@@ -17,7 +17,7 @@ Interactive training over 2 days where participants will learn a good foundation
 
 ## Introduction to Programming through Web Development
 
-Interactive training over 4 days where participants will learn foundational programming skills with specific focus on web development. This training does not require that the participants have any technical background.
+Interactive training over 4 days where participants will learn foundational programming skills with a specific focus on web development. This training does not require that the participants have any technical background.
 
 ## Information
 
