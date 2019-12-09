@@ -365,6 +365,14 @@ This page is under development, please reach out for more details about these tr
             <h3>theory: reverse engineering</h3>
         </header>
     </div>
+    <div class="item">
+        <a href="" class="image fit">
+            <img src="{{ '/images/insecure/theory/theory_devsecops.svg' | relative_url }}" alt=""/>
+        </a>
+        <header>
+            <h3>theory: 6 Hacks for Dev[Sec]Ops</h3>
+        </header>
+    </div>
 </div>
 
 <h2> discussion </h2>
