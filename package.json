@@ -1,0 +1,19 @@
+{
+  "name": "turtlesec-no.github.io",
+  "version": "0.0.0-development",
+  "description": "Helper scripts turtlesec.no",
+  "scripts": {
+    "resize-images": "node .github/workflows/resize-images.js",
+    "lint:fix": "standard --fix",
+    "prettify": "prettier --write ./**/*.{md,yml,html}"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "standard": "^14.1.0"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "glob": "^7.1.4",
+    "gm": "^1.23.1"
+  }
+}
