@@ -9,7 +9,7 @@ const sizes = [250, 500, 1000]
 
 const im = gm.subClass({ imageMagick: true })
 const images = glob.sync(
-  path.join(process.cwd(), 'assets', '**', '*.{jpg,jpeg,png}')
+  path.join(process.cwd(), 'images', '**', '*.{jpg,jpeg,png}')
 )
 
 const thumbNameRx = new RegExp(
