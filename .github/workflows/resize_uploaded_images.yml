@@ -24,6 +24,6 @@ jobs:
           git status
           git config user.email "actions@example.com"
           git config user.name "GitHub Actions"
-          git add -A assets/
+          git add -A images/
           git commit -m "fix: resize images"
           git push origin HEAD:`echo $GITHUB_REF | cut -d '/' -f 3`
