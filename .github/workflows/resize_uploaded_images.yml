@@ -20,7 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "machine github.com login tech-woman password ${GITHUB_TOKEN}" > ~/.netrc
+          echo "machine github.com login turtlesec password ${GITHUB_TOKEN}" > ~/.netrc
           git status
           git config user.email "actions@example.com"
           git config user.name "GitHub Actions"
