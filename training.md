@@ -54,7 +54,7 @@ This page is under development, please reach out for more details about these tr
 <div class="item_container">
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_numbers_dojo.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_numbers_dojo.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: numbers dojo</h3>
@@ -62,7 +62,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_numbers_constexpr.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_numbers_constexpr.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: numbers constexpr</h3>
@@ -70,7 +70,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_memory_dojo.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_memory_dojo.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: memory dojo</h3>
@@ -78,7 +78,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_format_strings.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_format_strings.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: format strings</h3>
@@ -86,7 +86,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_shellcode.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_shellcode.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: shellcode</h3>
@@ -94,7 +94,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_rop.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_rop.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: return oriented programming</h3>
@@ -102,7 +102,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/exercise/exercise_fuzzing.250.png' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/exercise/exercise_fuzzing.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>exercise: fuzzing</h3>
