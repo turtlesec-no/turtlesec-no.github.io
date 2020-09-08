@@ -3,7 +3,7 @@ name: Resize Images
 on: push
 
 jobs:
-  tests:
+  scale_images:
     runs-on: ubuntu-latest
 
     steps:
