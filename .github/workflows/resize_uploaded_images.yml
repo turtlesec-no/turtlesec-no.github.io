@@ -12,7 +12,7 @@ jobs:
 
     - name: Run scaling step
       id: scale
-      uses: actions/scale-images@master
+      uses: turtlesec-no/scale-images@master
       with:
        image-folder: 'images'
 
