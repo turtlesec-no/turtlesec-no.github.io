@@ -7,23 +7,34 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: "12.x"
-      - name: Install dependencies
-        run: npm ci --no-audit
-      - name: Resize images
-        run: npm run resize-images
-      - name: Commit resize images
-        continue-on-error: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          echo "machine github.com login turtlesec password ${GITHUB_TOKEN}" > ~/.netrc
-          git status
-          git config user.email "actions@example.com"
-          git config user.name "GitHub Actions"
-          git add -A images/
-          git commit -m "fix: resize images"
-          git push origin HEAD:`echo $GITHUB_REF | cut -d '/' -f 3`
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Run scaling step
+      id: scale
+      uses: actions/scale-images@master
+      with:
+       image-folder: 'images'
+
+    - name: Check scaling output 0
+      if: steps.scale.outputs.scaled == '0'
+      run: echo "No images found"
+
+    - name: Check scaling output 1
+      if: steps.scale.outputs.scaled == '1'
+      run: echo "All images were already scaled"
+
+    - name: Check scaling output 2
+      if: steps.scale.outputs.scaled == '2'
+      run: echo "Some images were scaled"
+
+    - name: Commit image files
+      working-directory: images
+      run: | 
+        git config user.email "bot@turtlesec.no"
+        git config user.name "Turtle Bot (GitHub Action)"
+        if [[ "$( git status --porcelain *.jpg)" != "" ]]; then
+          git add -A *.jpg
+          git commit -m "Updated image files"
+          git push
+        fi
