@@ -17,7 +17,7 @@ This page is under development, please reach out for more details about these tr
 <div class="item_container">
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/introduction/introduction_trainer.svg' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/introduction/introduction_trainer.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>introduction: trainer</h3>
@@ -25,7 +25,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/introduction/introduction_specs.svg' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/introduction/introduction_specs.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>introduction: specifications</h3>
@@ -33,7 +33,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/introduction/introduction_tooling.svg' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/introduction/introduction_tooling.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>introduction: tooling</h3>
@@ -41,7 +41,7 @@ This page is under development, please reach out for more details about these tr
     </div>
     <div class="item">
         <a href="" class="image fit">
-            <img src="{{ '/images/insecure/introduction/introduction_ub_and_optimizations.svg' | relative_url }}" alt=""/>
+            <img src="{{ '/images/insecure/introduction/introduction_ub_and_optimizations.500.png' | relative_url }}" alt=""/>
         </a>
         <header>
             <h3>introduction: ub and compiler optimizations</h3>
