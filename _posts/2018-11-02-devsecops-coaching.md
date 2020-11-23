@@ -3,7 +3,7 @@ layout: post
 title:  "DevSecOps Coaching"
 date:   2018-11-02
 description: TurtleSec’s approach to DevSecOps
-excerpt: TurtleSec’s approach to DevSecOps is to automate as much as possible and integrate it into the existing pipeline.
+excerpt: Integrating Security in an existing organization is a custom process which has to be tailored to the company, product and market.
 image: "/images/oslo-911741_1920.jpg"
 ---
 
