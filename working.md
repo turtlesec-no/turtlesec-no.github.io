@@ -20,6 +20,8 @@ TurtleSec is a small firm that provides contracting, consulting and training ser
 
 We want our company to be a good place to work and provide the foundation, safety and stability for a good life for all our employees. We are professionals who like to learn and do quality work. But life is more than work, and our primary duty is to our employees and their families.
 
+Over the next few years we want to continue to build a team that reflects the society we are in, with a broad skill-set in the area of programming and security. We believe psychological safety and a diverse team is foundational for bringing out the best in us all.
+
 ### What do we do?
 
 Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our clients security posture. We are focused on programming in a DevOps oriented organisation. Each contract is generally around 6-12 months and are often extended. As a TurtleSec employee you will have a lot of influence on which type of contracting work you would like to do, for which client and the duration you want to stay there.
@@ -76,7 +78,7 @@ At least one conference a year as an attendee. As a speaker, more will of course
 
 ### Training
 
-At least one training a year, more if needed.
+At least one training a year, more if needed. Expenses for trainings are of course covered by TurtleSec.
 
 ### Books or other learning tools
 
