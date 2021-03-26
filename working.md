@@ -92,6 +92,8 @@ Employees are encouraged to contribute to OSS and Open Source should be the defa
 
 A TurtleSec employee that is between clients will receive their regular salary and benefits just like everyone else. They can spend the time improving their competence either through training, certifications and/or work on internal Open Source projects.
 
+In this period TurtleSec will work with sourcing possible clients, crafting CVs, making offers on contracts and other needed tasks to get an appropriate new contract. Some interviewing internally for CVs and offer letters will require the assistance of the employee, and as the process moves along there will be interviews by clients.
+
 ## Work
 
 A lot of what we describe in this section is just Norwegian law, however, many people are not aware of their workers rights, so we feel it is important to be explicit. Norwegian law takes precedence over the below, though we in some areas allow more than the law requires. 
