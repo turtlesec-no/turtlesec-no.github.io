@@ -92,7 +92,11 @@ A TurtleSec employee that is between clients will receive their regular salary a
 
 ## Work
 
+A lot of what we describe in this section is just Norwegian law, however, many people are not aware of their workers rights, so we feel it is important to be explicit.
+
 ### Hours
+
+TurtleSec employees have a flexible 37.5 hour work week, Monday to Friday. Since the hours are flexible, employees can choose to work more some days to work less others. These "plus hours" (“plusstimer”) can be collected and taken in days off as well. If one has "minus hours" one can work them in or chose to take them off as unpaid leave. TurtleSec does not have any fixed "core hours" where one has to be working, but a client might and in that case the client's "core hours" will as a rule be followed. "Core hours" in Norway are often from 9/10am to 14/15pm. 
 
 ### Pay
 
@@ -100,15 +104,54 @@ A TurtleSec employee that is between clients will receive their regular salary a
 
 ### Overtime
 
+Overtime will probably not happen, but if it does it is calculated like this (+40% per hour)
+```
+(yearly salary (NOK) / 1950 (hours)) * 1.4 = overtime pay in NOK per hour
+```
+
 ### Vacation
 
+At TurtleSec we have 5 weeks vacation per year. In Norway this is done by having a percentage of your monthly salary saved for next years vacation, this is called "feriepenger" or vacation money. The normal thing is that this is paid out instead of salary in July the next year. There are many ways to structure this, so discuss your needs with your manager.
+
+Christmas Eve and New Years Eve are paid days off. We will naturally accommodate other religious holidays as needed.
+
 ### Sick Leave
+
+We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsliv" ("Inclusive Employment"), which is a government initiative to make workplaces more accessible:
+
+* You can self-report illness ("egenmelding") for up to 8 consecutive days
+* For up to a total of 24 days per each 12 month period
+* You are entitled to paid time off for caring for sick children ("omsorgsdager") how many will depend on your family situation
+* This "care leave" can also be self-reported
+* You will receive your full salary during your self-reported illness or care leave.
+* For longer illnesses the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is about 100.000 NOK) 
+
+Notes
+
+* You can register your sick leave by the hour, if for example you need to go to a doctor or fell ill at work or if you work a few hours from home while ill
+* Care leave ("omsorgsdager") can also be registered by the hour
+* Mental health is also health, and self-reported sick leave can also be used for this
+* If you have a temporary disability, permanent disability or a chronic illness we will work with you and NAV to accomodate your needs
+* There are many details and laws in this area, so speak to your manager and we will work with you to make this as smooth as possible
 
 ### Parental leave
 
 ### Pension
 
+TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon")
+* 7% from 0 NOK to 7.1 G
+* 25.1% from 7.1 G to 12 G
+
 ### Notice
+
+As is the norm in Norway there are two different lengths of notice when one resigns, during your trial period this is customarily shorter.
+
+* During trial period: 1 month
+* After trial period: 3 months starting from the first of the following month
+
+Notes
+
+* There are strict laws around termination of employment in Norway. It is as a rule very difficult to fire someone. This creates a work environment where people are not afraid to speak their minds, which we consider to be extremely valuable. 
 
 ### Insurance
 
@@ -131,4 +174,3 @@ A TurtleSec employee that is between clients will receive their regular salary a
 #### After school program
 
 ### Education
-
