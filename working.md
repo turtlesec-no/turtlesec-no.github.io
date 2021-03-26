@@ -68,19 +68,27 @@ The CEO of TurtleSec is Dag Fridtun and the Chair of the board is Patricia Aas, 
 
 ## Learning
 
-In a field which 
+In a field which requires us to be up to date on technologies that are constantly evolving, it is important to invest in our employees' development.
 
 ### Conferences
 
-At least one conference a year as an attendee.
+At least one conference a year as an attendee. As a speaker, more will of course be allowed. Tickets, travel, accomodation and meals that are not covered by the conference will be covered by TurtleSec.
 
 ### Training
 
+At least one training a year, more if needed.
+
 ### Books or other learning tools
+
+All books or online resources will be covered by TurtleSec.
 
 ### Open Source
 
+Employees are encouraged to contribute to OSS and Open Source should be the default for anything we develop outside of client owned software.
+
 ### Between clients
+
+A TurtleSec employee that is between clients will receive their regular salary and benefits just like everyone else. They can spend the time improving their competence either through training, certifications and/or work on internal Open Source projects.
 
 ## Work
 
