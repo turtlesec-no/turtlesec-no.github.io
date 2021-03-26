@@ -96,7 +96,7 @@ A lot of what we describe in this section is just Norwegian law, however, many p
 
 ### Hours
 
-TurtleSec employees have a flexible 37.5 hour work week, Monday to Friday. Since the hours are flexible, employees can choose to work more some days to work less others. These "plus hours" (“plusstimer”) can be collected and taken in days off as well. If one has "minus hours" one can work them in or chose to take them off as unpaid leave. TurtleSec does not have any fixed "core hours" where one has to be working, but a client might and in that case the client's "core hours" will as a rule be followed. "Core hours" in Norway are often from 9/10am to 14/15pm. 
+TurtleSec employees have a flexible 37.5 hour work week, Monday to Friday. Since the hours are flexible, employees can choose to work more some days to work less others. These "plus hours" (“plusstimer”) can be collected and taken in days off as well. If one has "minus hours" one can work them in or chose to take them off as unpaid leave. TurtleSec does not have any fixed "core hours" where one has to be working, but a client might and in that case the client's "core hours" will as a rule be followed. "Core hours" in Norway are often from 9/10 am to 14/15 pm.
 
 ### Pay
 
@@ -111,7 +111,7 @@ Overtime will probably not happen, but if it does it is calculated like this (+4
 
 ### Vacation
 
-At TurtleSec we have 5 weeks vacation per year. In Norway an employer is required to save up for your vaction. This is done by saving an amount equivalent to 12% of your monthly salary every month. This is called "feriepenger" or vacation money. The normal thing is that this is paid out instead of salary in June the following year. There are many ways to structure when this is paid out and when you have your vacation, so discuss your needs with your manager.
+At TurtleSec we have 5 weeks vacation per year. In Norway an employer is required to save up for your vacation. This is done by saving an amount equivalent to 12% of your monthly salary every month. This is called "feriepenger" or vacation money. The normal thing is that this is paid out instead of salary in June the following year. There are many ways to structure when this is paid out and when you have your vacation, so discuss your needs with your manager.
 
 Christmas Eve and New Years Eve are paid days off. We will naturally accommodate other religious holidays as needed.
 
@@ -124,7 +124,7 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 * You are entitled to paid time off for caring for sick children ("omsorgsdager") how many will depend on your family situation
 * This "care leave" can also be self-reported
 * You will receive your full salary during your self-reported illness or care leave
-* For illnesses beyond the self-reporting days above, a doctors note can be supplied
+* For illnesses beyond the self-reporting days above, a doctor's note can be supplied
 * For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is about 100.000 NOK)
 
 Notes
