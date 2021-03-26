@@ -10,19 +10,19 @@ changefreq: weekly
 
 # Working for TurtleSec (Page is in progress)
 
-This page is a work in progress. It is quite long, but it is important to be transparent about how it is to work for TurtleSec. Better navigation on the page will come soon.
+This page is a work in progress. It is quite long, but it is important for us to be transparent about how it is to work for TurtleSec. (Better navigation on the page will come soon)
 
 ## TurtleSec
 
-TurtleSec is a small firm that provides contracting, consulting and training services in the intersection of programming and security. 
+TurtleSec is a small firm that provides contracting, consulting and training services in the area of programming and security. 
 
 ### Culture
 
-Our company should be a good place to work and provide the foundation, safety and stability for a good life for all our employees. We are professionals who like to learn and do quality work. But life is more than work, and our primary duty is to our employees and their families.
+We want our company to be a good place to work and provide the foundation, safety and stability for a good life for all our employees. We are professionals who like to learn and do quality work. But life is more than work, and our primary duty is to our employees and their families.
 
 ### What do we do?
 
-Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our clients security posture. We are focused on programming in a DevOps oriented organisation. Each contract is generally around 3-6 months and are often extended to a year or multiple years. A TurtleSec employee will have a lot of influence on which type of contracting work you would like to do, for which client and the duration you want to stay there.
+Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our clients security posture. We are focused on programming in a DevOps oriented organisation. Each contract is generally around 6-12 months and are often extended. As a TurtleSec employee you will have a lot of influence on which type of contracting work you would like to do, for which client and the duration you want to stay there.
 
 We also do trainings and workshops primarily in the area of secure programming and culture.
 
@@ -32,7 +32,7 @@ Today we are three employees, all programmers, two with a strong Java focus and 
 
 ### How do we influence what we do?
 
-We know that developing and maintaining a skillset is crucial for having a career in tech. We will support you in your development in the direction you'd like to move career wise. We can do this through training, and also through carefully selecting clients that will move you in the direction you would like to go. That includes what kind of technology you work with and what kind of role you take in the client organization. It might also mean giving you training and/or certifying you in technologies that will make that move easier.
+We know that developing and maintaining a skillset is crucial for having a career in tech. We will support you in your development in the direction you'd like to move career-wise. We can do this through training, and also through carefully selecting clients that will move you in the direction you would like to go. That includes what kind of technology you work with and what kind of role you take in the client organization. It might also mean giving you training and/or certifying you in technologies that will make that move easier.
 
 ### Office
 
@@ -40,7 +40,7 @@ Our office is in an old building from 1880 close to St.Olavs plass in downtown O
 
 ### Accessibility
 
-The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accomodate any kind of disability including providing the necessary equipment and food adapted to individual needs and/or preferences. 
+The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accomodate any kind of disability including providing the necessary equipment adapted to individual needs and/or preferences. 
 
 ### Remote
 
@@ -92,7 +92,7 @@ A TurtleSec employee that is between clients will receive their regular salary a
 
 ## Work
 
-A lot of what we describe in this section is just Norwegian law, however, many people are not aware of their workers rights, so we feel it is important to be explicit.
+A lot of what we describe in this section is just Norwegian law, however, many people are not aware of their workers rights, so we feel it is important to be explicit. Norwegian law takes precedence over the below, though we in some areas allow more than the law requires. 
 
 ### Hours
 
@@ -111,7 +111,7 @@ Overtime will probably not happen, but if it does it is calculated like this (+4
 
 ### Vacation
 
-At TurtleSec we have 5 weeks vacation per year. In Norway this is done by having a percentage of your monthly salary saved for next years vacation, this is called "feriepenger" or vacation money. The normal thing is that this is paid out instead of salary in July the next year. There are many ways to structure this, so discuss your needs with your manager.
+At TurtleSec we have 5 weeks vacation per year. In Norway an employer is required to save up for your vaction. This is done by saving an amount equivalent to 12% of your monthly salary every month. This is called "feriepenger" or vacation money. The normal thing is that this is paid out instead of salary in June the following year. There are many ways to structure when this is paid out and when you have your vacation, so discuss your needs with your manager.
 
 Christmas Eve and New Years Eve are paid days off. We will naturally accommodate other religious holidays as needed.
 
@@ -123,8 +123,9 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 * For up to a total of 24 days per each 12 month period
 * You are entitled to paid time off for caring for sick children ("omsorgsdager") how many will depend on your family situation
 * This "care leave" can also be self-reported
-* You will receive your full salary during your self-reported illness or care leave.
-* For longer illnesses the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is about 100.000 NOK) 
+* You will receive your full salary during your self-reported illness or care leave
+* For illnesses beyond the self-reporting days above, a doctors note can be supplied
+* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is about 100.000 NOK)
 
 Notes
 
@@ -144,10 +145,10 @@ TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon")
 
 ### Notice
 
-As is the norm in Norway there are two different lengths of notice when one resigns, during your trial period this is customarily shorter.
+As is the norm in Norway there are two different lengths of notice when one resigns, during your trial period this is customarily shorter. The short notice period during the trial period is mainly to allow the employee to change their mind. There are still strong protections against firings even in the trial period.
 
-* During trial period: 1 month
-* After trial period: 3 months starting from the first of the following month
+* Notice during trial period: 2 weeks
+* Notice after trial period: 3 months starting from the first day of the following calendar month
 
 Notes
 
