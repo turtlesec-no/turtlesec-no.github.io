@@ -129,7 +129,7 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 * This "care leave" can also be self-reported
 * You will receive your full salary during your self-reported illness or care leave
 * For illnesses beyond the self-reporting days above, a doctor's note can be supplied
-* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is about 100.000 NOK)
+* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G, [where a "G" is index regulated and in 2021 it is about 100.000 NOK][1].
 
 #### Notes on Sick Leave
 
@@ -143,9 +143,9 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 
 ### Pension
 
-TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon")
-* 7% from 0 NOK to 7.1 G
-* 25.1% from 7.1 G to 12 G
+TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][1]
+* 7% from 0 NOK to 7.1 G, *in 2021 this range is approx 0-720k NOK*
+* 25.1% from 7.1 G to 12 G, *in 2021 this range is approx 720k-1.2m NOK*
 
 ### Notice Period
 
@@ -179,3 +179,5 @@ As is the norm in Norway there are two different lengths of notice when one resi
 #### After school program
 
 ### Education
+
+[1]: https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden
