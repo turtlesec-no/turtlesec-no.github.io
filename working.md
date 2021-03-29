@@ -131,7 +131,7 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 * For illnesses beyond the self-reporting days above, a doctor's note can be supplied
 * For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is about 100.000 NOK)
 
-Notes
+#### Notes on Sick Leave
 
 * You can register your sick leave by the hour, if for example you need to go to a doctor or fell ill at work or if you work a few hours from home while ill
 * Care leave ("omsorgsdager") can also be registered by the hour
@@ -147,14 +147,14 @@ TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon")
 * 7% from 0 NOK to 7.1 G
 * 25.1% from 7.1 G to 12 G
 
-### Notice
+### Notice Period
 
 As is the norm in Norway there are two different lengths of notice when one resigns, during your trial period this is customarily shorter. The short notice period during the trial period is mainly to allow the employee to change their mind. There are still strong protections against firings even in the trial period.
 
 * Notice during trial period: 2 weeks
 * Notice after trial period: 3 months starting from the first day of the following calendar month
 
-Notes
+#### Notes on Notice Period
 
 * There are strict laws around termination of employment in Norway. It is as a rule very difficult to fire someone. This creates a work environment where people are not afraid to speak their minds, which we consider to be extremely valuable. 
 
