@@ -47,22 +47,6 @@ We know that developing and maintaining a skill-set is crucial for having a care
 
 Our office is in an old building from 1880 close to St.Olavs plass in downtown Oslo, Norway. Buses, trams, subways and trains are within walking distance. The office has two roomy team offices with high ceilings, original hardwood floors and crown molding. It also has a meeting room, a kitchen area and a unisex toilet. A shower is in the basement, but this is shared with other tenants. Bicycle parking is in the courtyard which also has a garden. The building and it's neighbor have a lot of artists as tenants, so it is normal to see art laying around.
 
-### Accessibility
-
-The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accommodate any kind of disability including providing the necessary equipment adapted to individual needs and/or preferences. 
-
-### Remote
-
-Usually we will work at the clients offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
-
-### Travel
-
-As a rule no travel is required, but if the employee has a client that requires travel, all travel, accommodation and meals will be covered by TurtleSec. A TurtleSec employee will not be required to take a client that requires travel.
-
-### Language
-
-All public-facing information at TurtleSec is as a rule in English, informal communication should be adapted to the recipient(s). Clients might require fluent English and/or Norwegian. TurtleSec will facilitate and pay for Norwegian classes if desired by the employee or required by a client.
-
 ### Charity
 
 1% of everything we earn is donated to charities in December each year. This has been our policy since the beginning. Which charities we donate to will be decided together with our employees each year.
@@ -246,6 +230,10 @@ We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsl
 * If you have a temporary disability, permanent disability or a chronic illness we will work with you and NAV to accomodate your needs
 * There are many details and laws in this area, so speak to your manager and we will work with you to make this as smooth as possible
 
+### Accessibility
+
+The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accommodate any kind of disability including providing the necessary equipment adapted to individual needs and/or preferences.
+
 ### Parental leave
 
 ### Notice Period
@@ -258,6 +246,18 @@ As is the norm in Norway there are two different lengths of notice when one resi
 #### Notes on Notice Period
 
 * There are strict laws around termination of employment in Norway. It is as a rule very difficult to fire someone. This creates a work environment where people are not afraid to speak their minds, which we consider to be extremely valuable. 
+
+### Remote
+
+Usually we will work at the clients offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
+
+### Travel
+
+As a rule no travel is required, but if the employee has a client that requires travel, all travel, accommodation and meals will be covered by TurtleSec. A TurtleSec employee will not be required to take a client that requires travel.
+
+### Language
+
+All public-facing information at TurtleSec is as a rule in English, informal communication should be adapted to the recipient(s). Clients might require fluent English and/or Norwegian. TurtleSec will facilitate and pay for Norwegian classes if desired by the employee or required by a client.
 
 ### Insurance
 
