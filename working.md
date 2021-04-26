@@ -4,13 +4,11 @@ title: "Working for TurtleSec"
 description: Benefits and Policies for TurtleSec Employees
 sitemap:
 priority: 0.7
-lastmod: 2021-03-19
+lastmod: 2021-04-26
 changefreq: weekly
 ---
 
-# Working for TurtleSec (Page is in progress)
-
-This page is a work in progress. It is quite long, but it is important for us to be transparent about how it is to work for TurtleSec. (Better navigation on the page will come soon)
+# Working for TurtleSec
 
 ## Table of Contents
 
@@ -264,11 +262,11 @@ As a rule no travel is required, but if the employee has a client that requires 
 
 All public-facing information at TurtleSec is as a rule in English, informal communication should be adapted to the recipient(s). Clients might require fluent English and/or Norwegian. TurtleSec will facilitate and pay for Norwegian classes if desired by the employee or required by a client.
 
+<!--- TODO
+
 ### Insurance
 
 ### Relocation Assistance
-
-<!--- TODO
 
 ## Norway
 
