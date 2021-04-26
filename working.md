@@ -17,7 +17,10 @@ This page is a work in progress. It is quite long, but it is important for us to
 * [About TurtleSec](#turtlesec)
 * [Learning](#learning)
 * [Work](#work)
+
+<!--- TODO
 * [Norway](#norway)
+--->
 
 ## TurtleSec
 
@@ -263,6 +266,8 @@ All public-facing information at TurtleSec is as a rule in English, informal com
 
 ### Relocation Assistance
 
+<!--- TODO
+
 ## Norway
 
 ### Workers rights
@@ -280,6 +285,8 @@ All public-facing information at TurtleSec is as a rule in English, informal com
 #### After school program
 
 ### Education
+
+-->
 
 [1]: https://www.tekna.no/lonn-og-arbeidsvilkar/lonnsstatistikk/
 [2]: https://no.wikipedia.org/wiki/Inkluderende_arbeidsliv
