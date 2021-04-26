@@ -24,7 +24,7 @@ Over the next few years we want to continue to build a team that reflects the so
 
 ### What do we do?
 
-Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our clients security posture. We are focused on programming in a DevOps oriented organisation. Each contract is generally around 6-12 months and are often extended. As a TurtleSec employee you will have a lot of influence on which type of contracting work you would like to do, for which client and the duration you want to stay there.
+Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our clients security posture. We are focused on programming in a DevOps oriented organization. Each contract is generally around 6-12 months and are often extended. As a TurtleSec employee you will have a lot of influence on which type of contracting work you would like to do, for which client and the duration you want to stay there.
 
 We also do trainings and workshops primarily in the area of secure programming and culture.
 
@@ -34,7 +34,7 @@ Today we are three employees, all programmers, two with a strong Java focus and 
 
 ### How do we influence what we do?
 
-We know that developing and maintaining a skillset is crucial for having a career in tech. We will support you in your development in the direction you'd like to move career-wise. We can do this through training, and also through carefully selecting clients that will move you in the direction you would like to go. That includes what kind of technology you work with and what kind of role you take in the client organization. It might also mean giving you training and/or certifying you in technologies that will make that move easier.
+We know that developing and maintaining a skill-set is crucial for having a career in tech. We will support you in your development in the direction you'd like to move career-wise. We can do this through training, and also through carefully selecting clients that will move you in the direction you would like to go. That includes what kind of technology you work with and what kind of role you take in the client organization. It might also mean giving you training and/or certifying you in technologies that will make that move easier.
 
 ### Office
 
@@ -42,15 +42,15 @@ Our office is in an old building from 1880 close to St.Olavs plass in downtown O
 
 ### Accessibility
 
-The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accomodate any kind of disability including providing the necessary equipment adapted to individual needs and/or preferences. 
+The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accommodate any kind of disability including providing the necessary equipment adapted to individual needs and/or preferences. 
 
 ### Remote
 
-Usually we will work at the clients offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know eachother better.
+Usually we will work at the clients offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
 
 ### Travel
 
-As a rule no travel is required, but if the employee has a client that requires travel, all travel, accomodation and meals will be covered by TurtleSec. A TurtleSec employee will not be required to take a client that requires travel.
+As a rule no travel is required, but if the employee has a client that requires travel, all travel, accommodation and meals will be covered by TurtleSec. A TurtleSec employee will not be required to take a client that requires travel.
 
 ### Language
 
@@ -102,13 +102,104 @@ A lot of what we describe in this section is just Norwegian law, however, many p
 
 TurtleSec employees have a flexible 37.5 hour work week, Monday to Friday. Since the hours are flexible, employees can choose to work more some days to work less others. These "plus hours" (“plusstimer”) can be collected and taken in days off as well. If one has "minus hours" one can work them in or chose to take them off as unpaid leave. TurtleSec does not have any fixed "core hours" where one has to be working, but a client might and in that case the client's "core hours" will as a rule be followed. "Core hours" in Norway are often from 9/10 am to 14/15 pm.
 
-### Pay
+### Pay and the pay adjustment process
 
-### Pay adjustment process
+The salaries at TurtleSec are based on the pay statistics from the STEM union [Tekna][1] from the previous year. They are a manually smoothed average between the upper quartile and the 90th percentile adjusted for the projected pay raise for the current year.
+
+Those numbers are presented here in this table, where the year is the graduating year for the employee, and the salaries are in 1000 NOK. The model assumes a masters degree in computer science or equivalent.
+
+<canvas id="bar-chart" width="800" height="450" style="margin-bottom:50px"></canvas>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+// Bar chart
+new Chart(document.getElementById("bar-chart"), {
+    type: 'bar',
+    data: {
+      labels: ['2019','2018','2017','2016','2015','2014','2013','2012','2011','2010','2009','2008','2007','2006','2005','2004','2003','2002','2001','2000'],
+      datasets: [
+       {
+            barPercentage: 1.0,
+            order: 1,
+            label: 'Salary',
+            data: [610,660,712,754,795,836,877,916,954,991,1026,1056,1087,1113,1138,1159,1179,1200,1220,1241],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(153, 102, 255, 0.5)',
+                'rgba(201, 203, 207, 0.5)',
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(153, 102, 255, 0.5)',
+                'rgba(201, 203, 207, 0.5)',
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(153, 102, 255, 0.5)',
+                'rgba(201, 203, 207, 0.5)',
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)'
+            ],
+        },
+        {
+            barPercentage: 1.0,
+            order: 2,
+            label: 'Pension',
+            data: [42,46,49,59,69,79,89,99,109,118,127,135,142,149,155,160,165,171,176,181],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(201, 203, 207, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(201, 203, 207, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(201, 203, 207, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)'
+            ],
+        },
+      ]
+    },
+    options: {
+        responsive: true,
+        legend: {
+            display: false,
+        },
+        scales: {
+            x: { stacked: true },
+            y: { stacked: true }
+        }
+    }
+});
+</script>
 
 ### Overtime
 
 Overtime will probably not happen, but if it does it is calculated like this (+40% per hour)
+
 ```
 (yearly salary (NOK) / 1950 (hours)) * 1.4 = overtime pay in NOK per hour
 ```
@@ -121,7 +212,7 @@ Christmas Eve and New Years Eve are paid days off. We will naturally accommodate
 
 ### Sick Leave
 
-We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsliv" ("Inclusive Employment"), which is a government initiative to make workplaces more accessible:
+We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsliv"][2] ("Inclusive Employment"), which is a government initiative to make workplaces more accessible:
 
 * You can self-report illness ("egenmelding") for up to 8 consecutive days
 * For up to a total of 24 days per each 12 month period
@@ -129,7 +220,7 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 * This "care leave" can also be self-reported
 * You will receive your full salary during your self-reported illness or care leave
 * For illnesses beyond the self-reporting days above, a doctor's note can be supplied
-* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G, [where a "G" is index regulated and in 2021 it is about 100.000 NOK][1].
+* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2020 it is [101.351 NOK][3])
 
 #### Notes on Sick Leave
 
@@ -143,9 +234,12 @@ We follow the rules for sick leave which are outlined in "Inkluderende Arbeidsli
 
 ### Pension
 
-TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][1]
-* 7% from 0 NOK to 7.1 G, *in 2021 this range is approx 0-720k NOK*
-* 25.1% from 7.1 G to 12 G, *in 2021 this range is approx 720k-1.2m NOK*
+TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][3]
+
+* 7% from 0 NOK to [7.1 G][3], *in 2021 this range is approx 0-720k NOK*
+* 25.1% from [7.1 G][3] to [12 G][3], *in 2021 this range is approx 720k-1.2m NOK*
+
+In addition to this the government pays an amount equivalent to 18.1% for salaries up to 7.1 G.
 
 ### Notice Period
 
@@ -180,4 +274,6 @@ As is the norm in Norway there are two different lengths of notice when one resi
 
 ### Education
 
-[1]: https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden
+[1]: https://www.tekna.no/lonn-og-arbeidsvilkar/lonnsstatistikk/
+[2]: https://no.wikipedia.org/wiki/Inkluderende_arbeidsliv
+[3]: https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden
