@@ -239,6 +239,8 @@ The office itself is on the floor above the ground floor of an old building whic
 
 ### Parental leave
 
+The Norwegian government will cover up to [6 G][3] of your pay during your parental leave (there are several important conditions here that you should research). How it can be split between the parents and how it can be paid out is [very flexible][4], high level summary: the full combined period is 49 weeks at 100% pay or 59 weeks at 80% pay split between the parents. The difference between your TurtleSec salary and the [6 G][3] limit will be covered by TurtleSec for up to 6 months provided that you have worked for TurtleSec for at least 6 months.
+
 ### Notice Period
 
 As is the norm in Norway there are two different lengths of notice when one resigns, during your trial period this is customarily shorter. The short notice period during the trial period is mainly to allow the employee to change their mind. There are still strong protections against firings even in the trial period.
@@ -291,3 +293,4 @@ All public-facing information at TurtleSec is as a rule in English, informal com
 [1]: https://www.tekna.no/lonn-og-arbeidsvilkar/lonnsstatistikk/
 [2]: https://no.wikipedia.org/wiki/Inkluderende_arbeidsliv
 [3]: https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden
+[4]: https://familie.nav.no/om-foreldrepenger
