@@ -12,6 +12,13 @@ changefreq: weekly
 
 This page is a work in progress. It is quite long, but it is important for us to be transparent about how it is to work for TurtleSec. (Better navigation on the page will come soon)
 
+## Table of Contents
+
+* [About TurtleSec](#turtlesec)
+* [Learning](#learning)
+* [Work](#work)
+* [Norway](#norway)
+
 ## TurtleSec
 
 TurtleSec is a small firm that provides contracting, consulting and training services in the area of programming and security.
