@@ -203,6 +203,15 @@ new Chart(document.getElementById("bar-chart"), {
 });
 </script>
 
+### Pension
+
+TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][3]
+
+* 7% from 0 NOK to [7.1 G][3], *in 2021 this range is approx 0-720k NOK*
+* 25.1% from [7.1 G][3] to [12 G][3], *in 2021 this range is approx 720k-1.2m NOK*
+
+In addition to this the government pays an amount equivalent to 18.1% for salaries up to 7.1 G.
+
 ### Overtime
 
 Overtime will probably not happen, but if it does it is calculated like this (+40% per hour)
@@ -238,15 +247,6 @@ We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsl
 * There are many details and laws in this area, so speak to your manager and we will work with you to make this as smooth as possible
 
 ### Parental leave
-
-### Pension
-
-TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][3]
-
-* 7% from 0 NOK to [7.1 G][3], *in 2021 this range is approx 0-720k NOK*
-* 25.1% from [7.1 G][3] to [12 G][3], *in 2021 this range is approx 720k-1.2m NOK*
-
-In addition to this the government pays an amount equivalent to 18.1% for salaries up to 7.1 G.
 
 ### Notice Period
 
