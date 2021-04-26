@@ -14,7 +14,7 @@ This page is a work in progress. It is quite long, but it is important for us to
 
 ## TurtleSec
 
-TurtleSec is a small firm that provides contracting, consulting and training services in the area of programming and security. 
+TurtleSec is a small firm that provides contracting, consulting and training services in the area of programming and security.
 
 ### Culture
 
@@ -96,7 +96,7 @@ In this period TurtleSec will work with sourcing possible clients, crafting CVs,
 
 ## Work
 
-A lot of what we describe in this section is just Norwegian law, however, many people are not aware of their workers rights, so we feel it is important to be explicit. Norwegian law takes precedence over the below, though we in some areas allow more than the law requires. 
+A lot of what we describe in this section is just Norwegian law, however, many people are not aware of their workers rights, so we feel it is important to be explicit. Norwegian law takes precedence over the below, though we in some areas allow more than the law requires.
 
 ### Hours
 
