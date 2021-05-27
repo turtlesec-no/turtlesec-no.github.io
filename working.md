@@ -188,6 +188,8 @@ new Chart(document.getElementById("bar-chart"), {
 });
 </script>
 
+The pay for each employee is adjusted according to this system every year, no additional process is required.
+
 ### Pension
 
 TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][3]
