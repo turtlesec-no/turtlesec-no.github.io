@@ -46,7 +46,7 @@ We know that developing and maintaining a skill-set is crucial for having a care
 
 ### Office
 
-Our office is in an old building from 1880 close to St.Olavs plass in downtown Oslo, Norway. Buses, trams, subways and trains are within walking distance. The office has two roomy team offices with high ceilings, original hardwood floors and crown molding. It also has a meeting room, a kitchen area and a unisex toilet. A shower is in the basement, but this is shared with other tenants. Bicycle parking is in the courtyard which also has a garden. The building and it's neighbor have a lot of artists as tenants, so it is normal to see art lying around.
+Our office is in an old building from 1880 close to St. Olavs plass in downtown Oslo, Norway. Buses, trams, subways and trains are within walking distance. The office has two roomy team offices with high ceilings, original hardwood floors and crown molding. It also has a meeting room, a kitchen area and a unisex toilet. A shower is in the basement, but this is shared with other tenants. Bicycle parking is in the courtyard which also has a garden. The building and its neighbor have a lot of artists as tenants, so it is normal to see art lying around.
 
 ### Charity
 
@@ -228,7 +228,7 @@ We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsl
 * You can register your sick leave by the hour, if for example you need to go to a doctor or fell ill at work or if you work a few hours from home while ill
 * Care leave ("omsorgsdager") can also be registered by the hour
 * Mental health is also health, and self-reported sick leave can also be used for this
-* If you have a temporary disability, permanent disability or a chronic illness we will work with you and NAV to accomodate your needs
+* If you have a temporary disability, permanent disability or a chronic illness we will work with you and NAV to accommodate your needs
 * There are many details and laws in this area, so speak to your manager and we will work with you to make this as smooth as possible
 
 ### Accessibility
@@ -252,7 +252,7 @@ As is the norm in Norway there are two different lengths of notice when one resi
 
 ### Remote
 
-Usually we will work at the clients offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
+Usually we will work at the clients' offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
 
 ### Travel
 
