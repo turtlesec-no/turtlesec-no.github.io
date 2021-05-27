@@ -76,6 +76,10 @@ At least one training a year, more if needed. Expenses for trainings are of cour
 
 All books or online resources will be covered by TurtleSec.
 
+### Equipment
+
+Company laptop, noise cancelling headphones, mobile phone and subscription are all provided by TurtleSec. Other equipment needed will also be provided, also for the home office, examples include external screens, adaptors, camera, microphone etc.
+
 ### Open Source
 
 Employees are encouraged to contribute to OSS and Open Source should be the default for anything we develop outside of client owned software.
