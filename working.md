@@ -149,7 +149,7 @@ new Chart(document.getElementById("bar-chart"), {
             barPercentage: 1.0,
             order: 2,
             label: 'Pension',
-            data: [42,46,49,59,69,79,89,99,109,118,127,135,142,149,155,160,165,171,176,181],
+            data: [43,46,50,55,65,75,86,95,105,114,123,131,138,145,151,156,161,167,172,177],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(255, 159, 64, 0.2)',
@@ -198,8 +198,8 @@ The pay for each employee is adjusted according to this system every year, no ad
 
 TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][3]
 
-* 7% from 0 NOK to [7.1 G][3], *in 2021 this range is approx 0-720k NOK*
-* 25.1% from [7.1 G][3] to [12 G][3], *in 2021 this range is approx 720k-1.2m NOK*
+* 7% from 0 NOK to [7.1 G][3], *in 2021 this range is approx 0-743k NOK*
+* 25.1% from [7.1 G][3] to [12 G][3], *in 2021 this range is approx 743k-1.25m NOK*
 
 In addition to this the government pays an amount equivalent to 18.1% for salaries up to 7.1 G.
 
@@ -227,7 +227,7 @@ We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsl
 * This "care leave" can also be self-reported
 * You will receive your full salary during your self-reported illness or care leave
 * For illnesses beyond the self-reporting days above, a doctor's note can be supplied
-* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2020 it is [101.351 NOK][3])
+* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is [104.716 NOK][3])
 
 #### Notes on Sick Leave
 
