@@ -205,10 +205,10 @@ In addition to this the government pays an amount equivalent to 18.1% for salari
 
 ### Overtime
 
-Overtime will probably not happen, but if it does it is calculated like this (+40% per hour)
+Overtime will probably not happen, but if it does it is calculated like this (+50% per hour)
 
 ```
-(yearly salary (NOK) / 1950 (hours)) * 1.4 = overtime pay in NOK per hour
+(yearly salary (NOK) / 1950 (hours)) * 1.5 = overtime pay in NOK per hour
 ```
 
 ### Vacation
