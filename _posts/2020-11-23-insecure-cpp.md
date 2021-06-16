@@ -45,13 +45,14 @@ This training is explicitly targeted at C++ developers, though C developers will
 
 ### Day 1 - Introduction, Fuzzing and Numbers
 
-- Introduction: Training
-- Introduction: Specs
-- Introduction: Tooling
-- Introduction: UB and Compiler Optimizations
+- Meta: Training
+- Theory: Introduction and Specs
+- Mitigations: Tooling
+- Exploitable: UB and Compiler Optimizations
+- Theory: Address Sanitizer
 - Exploit: Heartbleed
 - Theory: Fuzzing (on Linux)
-- Exploitable: Numbers
+- Theory: Debugging in gdb
 
 ### Day 2 - Stack Buffer Overflow, Shellcode, Reverse Engineering and Sandboxing on Linux
 
@@ -65,10 +66,7 @@ This training is explicitly targeted at C++ developers, though C developers will
 
 - Exploit: Return Oriented Programming (ROP)
 - Exploit: Format Strings (on Linux)
-- Practice: Avoid the Pitfalls
-- Practice: Functionality
-- Practice: Resource Management
-- Exploitable: Modern C++
+- Practice: Secure Coding Practices 1
 - Discussion: Security Culture
 - Practice: Make It Fixable
 
@@ -76,12 +74,8 @@ This training is explicitly targeted at C++ developers, though C developers will
 
 - Theory: Memory Managers (on Linux)
 - Theory: Heap Exploitation
-- Exploitable: Memory 1
-- Exploitable: Memory 2
 - Exploit: Eternal Exploits
-- Mitigations: Memory
-- Practice: Prefer C++ to C
-- Practice: I'd Really Rather You Didn't
+- Practice: Secure Coding Practices 2
 - Practice: 6 Hacks for Dev[Sec]Ops
 - Discussion: Conclusion
 
