@@ -100,23 +100,107 @@ TurtleSec employees have a flexible 37.5 hour work week, Monday to Friday. Since
 
 ### Pay and the pay adjustment process
 
-The salaries at TurtleSec are based on the pay statistics from the STEM union [Tekna][1] from the previous year. They are a manually smoothed average between the upper quartile and the 90th percentile adjusted for the projected pay raise for the current year.
+The salaries at TurtleSec are based on the pay statistics from the STEM union [Tekna][1] from the previous year, the difference between the Masters and the Bachelors salary is based on the average difference from the union [NITO][5]. The numbers are a manually smoothed average between the upper quartile and the 90th percentile adjusted for the projected pay raise for the current year.
 
-Those numbers are presented here in this table, where the year is the graduating year for the employee, and the salaries are in 1000 NOK. The model assumes a masters degree in computer science or equivalent.
+Those numbers are presented here in these tables, one for a Bachelors degree and one for a Masters degree, where the x axis is years of experience, and the salaries are in 1000 NOK. Years of experience is used in place of graduation year to accommodate folks that worked professionally before getting their degree.
 
-<canvas id="bar-chart" width="800" height="450" style="margin-bottom:50px"></canvas>
+<canvas id="bar-chart-bachelor" width="800" height="450" style="margin-bottom:50px"></canvas>
+<canvas id="bar-chart-master" width="800" height="450" style="margin-bottom:50px"></canvas>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-// Bar chart
-new Chart(document.getElementById("bar-chart"), {
-    type: 'bar',
+// Bachelor
+new Chart(document.getElementById("bar-chart-bachelor"), {
+    type: 'bar',https://www.nito.no/lonn-arbeidsliv-lonnskalkulator/
     data: {
-      labels: ['2019','2018','2017','2016','2015','2014','2013','2012','2011','2010','2009','2008','2007','2006','2005','2004','2003','2002','2001','2000'],
+      labels: ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21'],
       datasets: [
        {
             barPercentage: 1.0,
             order: 1,
-            label: 'Salary',
+            label: 'Bachelor Salary',
+            data: [558,608,660,702,743,784,825,864,902,939,974,1004,1035,1061,1086,1107,1127,1148,1168,1189],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(153, 102, 255, 0.5)',
+                'rgba(201, 203, 207, 0.5)',
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(153, 102, 255, 0.5)',
+                'rgba(201, 203, 207, 0.5)',
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)',
+                'rgba(54, 162, 235, 0.5)',
+                'rgba(153, 102, 255, 0.5)',
+                'rgba(201, 203, 207, 0.5)',
+                'rgba(255, 99, 132, 0.5)',
+                'rgba(255, 159, 64, 0.5)',
+                'rgba(255, 205, 86, 0.5)'
+            ],
+        },
+        {
+            barPercentage: 1.0,
+            order: 2,
+            label: 'Bachelor Pension',
+            data: [39,43,46,49,52,62,73,82,92,101,110,118,125,132,138,143,148,154,159,164],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(201, 203, 207, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(201, 203, 207, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(201, 203, 207, 0.2)',
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(255, 159, 64, 0.2)',
+                'rgba(255, 205, 86, 0.2)'
+            ],
+        },
+      ]
+    },
+    options: {
+        responsive: true,
+        legend: {
+            display: false,
+        },
+        scales: {
+            x: { stacked: true },
+            y: { stacked: true }
+        }
+    }
+});
+// Master
+new Chart(document.getElementById("bar-chart-master"), {
+    type: 'bar',
+    data: {
+      labels: ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21'],
+      datasets: [
+       {
+            barPercentage: 1.0,
+            order: 1,
+            label: 'Master Salary',
             data: [610,660,712,754,795,836,877,916,954,991,1026,1056,1087,1113,1138,1159,1179,1200,1220,1241],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.5)',
@@ -148,7 +232,7 @@ new Chart(document.getElementById("bar-chart"), {
         {
             barPercentage: 1.0,
             order: 2,
-            label: 'Pension',
+            label: 'Master Pension',
             data: [43,46,50,55,65,75,86,95,105,114,123,131,138,145,151,156,161,167,172,177],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
@@ -298,3 +382,4 @@ All public-facing information at TurtleSec is as a rule in English, informal com
 [2]: https://no.wikipedia.org/wiki/Inkluderende_arbeidsliv
 [3]: https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden
 [4]: https://familie.nav.no/om-foreldrepenger
+[5]: https://www.nito.no/lonn-arbeidsliv-lonnskalkulator/
