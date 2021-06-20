@@ -35,7 +35,7 @@ This training is explicitly targeted at C++ developers, though C developers will
 - Demonstrate the motivation for mitigations in the platforms, languages and tools
 - Show that C++ and C are not easy to reason about
 - Teach the students to recognize constructs that have a higher risk of having vulnerabilities
-- Teach the students to which tools can be used to find bugs before others find them
+- Teach the students which tools can be used to find bugs before others find them
 - Teach the students about tools they can use locally while coding
 - Teach the students about tools they can integrate in their CI/CD pipeline
 - Help them think about how security fits into the team context
