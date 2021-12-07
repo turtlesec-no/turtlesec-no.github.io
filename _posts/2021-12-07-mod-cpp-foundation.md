@@ -16,7 +16,7 @@ that have little to no experience in C++, but are proficient in an Object Orient
 Programming language, like Java or C#.
 
 _**Mod(C++) Fundamentals**_ should ideally be taken before [_**Mod(C++)
-Intermediate**_](../blog/mod-cpp-intermediate/), another two-day course which expands
+Intermediate**_](../mod-cpp-intermediate/), another two-day course which expands
 on the topics in _**Mod(C++) Fundamentals**_. Taken together these two courses will
 give a good foundation for a modern C++ programmer.
 
