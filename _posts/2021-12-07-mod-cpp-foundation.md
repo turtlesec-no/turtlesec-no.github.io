@@ -11,13 +11,14 @@ image: "/images/escalator-g8eb8146cb_1920.1000.jpg"
 
 ### Introduction to C++
 
-_**Mod(C++) Fundamentals**_ is a two-day training course. It is ideal for new hires that
-have little to no experience in C++, but are proficient in an Object Oriented
+_**Mod(C++) Fundamentals**_ is a two-day training course. It is ideal for new hires
+that have little to no experience in C++, but are proficient in an Object Oriented
 Programming language, like Java or C#.
 
-_**Mod(C++) Fundamentals**_ should ideally be taken before _**Mod(C++) Intermediate**_, another
-two-day course which expands on the topics in _**Mod(C++) Fundamentals**_. Taken together
-these two courses will give a good foundation for a modern C++ programmer.
+_**Mod(C++) Fundamentals**_ should ideally be taken before [_**Mod(C++)
+Intermediate**_](../blog/mod-cpp-intermediate/), another two-day course which expands
+on the topics in _**Mod(C++) Fundamentals**_. Taken together these two courses will
+give a good foundation for a modern C++ programmer.
 
 ### Practical information
 
@@ -40,9 +41,10 @@ to browsers and embedded.
 
 - Introduction to C++ and presentation of the project
 - Hello world and overview of simple C++
-- Using variables,  functions and parameters effectively
+- Using variables, functions and parameters effectively
 - Using values, references, auto and const
-- An introduction to the compilation model of C++. Build systems, compilation, linkage, headers, translation units and libraries
+- An introduction to the compilation model of C++. Build systems, compilation,
+  linkage, headers, translation units and libraries
 - Introduction to unit testing using Catch2
 - Classes, structs, namespaces and enum class
 - Allocation on the stack vs heap, std::unique_ptr, Rule of Zero and RAII
@@ -54,4 +56,5 @@ to browsers and embedded.
 - Lambdas and Function Templates
 - Algorithmic Thinking
 - Introduction to tooling like Clang Tidy, Clang Format, CMake, GDB
-- Introduction to sanitizers like AddressSanitizer, Undefined Behavior Sanitizer and Memory Sanitizer
+- Introduction to sanitizers like AddressSanitizer, Undefined Behavior Sanitizer and
+  Memory Sanitizer

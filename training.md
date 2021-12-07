@@ -21,7 +21,7 @@ Training aimed at providing a foundation for C++ programmers in security for nat
 
 ## [Mod(C++) Fundamentals - Introduction to C++](../blog/mod-cpp-foundation/)
 
-[_**Mod(C++) Fundamentals**_](../blog/mod-cpp-foundation/) is a two-day training course. It is ideal for new hires that have little to no experience in C++.
+_**Mod(C++) Fundamentals**_ is a two-day training course. It is ideal for new hires that have little to no experience in C++.
 
 ## [Mod(C++) Intermediate - More advanced topics](../blog/mod-cpp-intermediate/)
 
