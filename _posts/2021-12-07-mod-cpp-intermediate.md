@@ -11,7 +11,7 @@ image: "/images/oslo-gf6008532f_1920.1000.jpg"
 
 ### More advanced topics
 
-Mod(C++) Intermediate is a two day training course. It is ideal for people who have
+Mod(C++) Intermediate is a two-day training course. It is ideal for people who have
 some C++ experience or that have taken Mod(C++) Fundamentals. Taken together these
 two courses will give a good foundation for a modern C++ programmer.
 
@@ -30,7 +30,7 @@ The course has been authored by Corentin Jabot and Patricia Aas. Between
 them they have almost 30 years of experience in C++, working on everything from games
 to browsers and embedded.
 
-## Two day training
+## Two-day training
 
 - Generic programming "thinking"
 - Introduction to concepts

@@ -11,12 +11,12 @@ image: "/images/escalator-g8eb8146cb_1920.1000.jpg"
 
 ### Introduction to C++
 
-Mod(C++) Fundamentals is a two day training course. It is ideal for new hires that
+Mod(C++) Fundamentals is a two-day training course. It is ideal for new hires that
 have little to no experience in C++, but are proficient in an Object Oriented
 Programming language, like Java or C#.
 
 Mod(C++) Fundamentals should ideally be taken before Mod(C++) Intermediate, another
-two day course which expands on the topics in Mod(C++) Fundamentals. Taken together
+two-day course which expands on the topics in Mod(C++) Fundamentals. Taken together
 these two courses will give a good foundation for a modern C++ programmer.
 
 ### Practical information
@@ -34,7 +34,7 @@ The course has been authored by Corentin Jabot, Patricia Aas and Ólafur Waage. 
 them they have almost 40 years of experience in C++, working on everything from games
 to browsers and embedded.
 
-## Two day training
+## Two-day training
 
 ### Day 1 - Welcome to C++
 
