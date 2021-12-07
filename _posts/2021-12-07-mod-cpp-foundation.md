@@ -4,7 +4,7 @@ title:  "Mod(C++) Fundamentals"
 date:   2021-12-07
 description: Introduction to C++
 excerpt: Mod(C++) Fundamentals is a two day training course. It is ideal for new hires that have little to no experience in C++. 
-image: "/images/aker_brygge.1000.jpg"
+image: "/images/escalator-g8eb8146cb_1920.1000.jpg"
 ---
 
 ## Mod(C++) Fundamentals
