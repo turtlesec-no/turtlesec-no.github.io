@@ -12,7 +12,7 @@ image: "/images/oslo-gf6008532f_1920.1000.jpg"
 ### More advanced topics
 
 Mod(C++) Intermediate is a two-day training course. It is ideal for people who have
-some C++ experience or that have taken Mod(C++) Fundamentals. Taken together these
+some C++ experience or that have taken _**Mod(C++) Fundamentals**_. Taken together these
 two courses will give a good foundation for a modern C++ programmer.
 
 ### Practical information
