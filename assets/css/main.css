@@ -1728,7 +1728,7 @@
 		margin: 0 0 2rem 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1, h2, h3, h4, h5, h6, figcaption {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
@@ -1771,6 +1771,16 @@
 	h6 {
 		font-size: 0.8rem;
 	}
+
+figure {
+	display: inline-block;
+}
+figure img {
+	vertical-align: top;
+}
+figure figcaption {
+	text-align: center;
+}
 
 	sub {
 		font-size: 0.8rem;
