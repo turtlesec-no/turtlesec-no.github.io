@@ -356,6 +356,16 @@ As a rule no travel is required, but if the employee has a client that requires 
 
 All public-facing information at TurtleSec is as a rule in English, informal communication should be adapted to the recipient(s). Clients might require fluent English and/or Norwegian. TurtleSec will facilitate and pay for Norwegian classes if desired by the employee or required by a client.
 
+### Tech Unions in Norway
+
+Depending on ones level of education there are different options in Norway for unions.
+
+- Masters: [Tekna][6]
+- Masters and Bachelors: [NITO][7]
+- All levels of eduaction: [EL og IT Forbundet][8]
+
+Advantages often include support if one has a dispute with an employer and good deals on insurance.
+
 <!--- TODO
 
 ### Insurance
@@ -387,3 +397,6 @@ All public-facing information at TurtleSec is as a rule in English, informal com
 [3]: https://www.nav.no/no/nav-og-samfunn/kontakt-nav/utbetalinger/grunnbelopet-i-folketrygden
 [4]: https://familie.nav.no/om-foreldrepenger
 [5]: https://www.nito.no/lonn-arbeidsliv-lonnskalkulator/
+[6]: https://www.tekna.no
+[7]: https://www.nito.no
+[8]: https://elogit.no
