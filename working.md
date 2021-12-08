@@ -321,6 +321,10 @@ We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsl
 * If you have a temporary disability, permanent disability or a chronic illness we will work with you and NAV to accommodate your needs
 * There are many details and laws in this area, so speak to your manager and we will work with you to make this as smooth as possible
 
+### Moving Day
+
+All employees get a paid day off when they move.
+
 ### Accessibility
 
 The office itself is on the floor above the ground floor of an old building which does not have an elevator. We will try to accommodate any kind of disability including providing the necessary equipment adapted to individual needs and/or preferences.
