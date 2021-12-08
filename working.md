@@ -38,7 +38,7 @@ We also do trainings and workshops primarily in the area of secure programming a
 
 ### Who works here?
 
-Today we are three employees, all programmers, two with a strong Java focus and one with a strong C++ focus. We are all senior programmers with between 5 and 15 years of experience.
+Today we are five employees, all programmers, two with a strong Java focus, one with a strong Python focus and two with a strong C++ focus. We are all senior programmers with between 5 and 15 years of experience.
 
 ### How do we influence what we do?
 
