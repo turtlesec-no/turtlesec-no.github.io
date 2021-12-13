@@ -13,7 +13,7 @@ changefreq: weekly
 
 <span class="image fit"><img src="{{ "/images/barcode.1000.jpg" | absolute_url }}" alt="" /></span>
 
-*Trainings available during 2020/2021*
+*The trainings available on site at the customer or online*
 
 ## [(In)Security in C++ - Secure Coding Practices in C++](../blog/insecure-cpp/)
 
