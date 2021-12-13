@@ -9,6 +9,8 @@ image: "/images/aker_brygge.1000.jpg"
 
 ## (In)Security in C++
 
+This training can be done as a 4-day or a 2-day training.
+
 ### Secure Coding Practices in C++
 
 The training will provide its students with:
@@ -76,6 +78,27 @@ This training is explicitly targeted at C++ developers, though C developers will
 - Exploit: Eternal Exploits
 - Practice: Secure Coding Practices 2
 - Practice: 6 Hacks for Dev[Sec]Ops
+- Discussion: Conclusion
+
+## Two day training
+
+### Day 1 - Introduction, Fuzzing and Numbers
+
+- Meta: Training
+- Theory: Introduction and Specs
+- Mitigations: Tooling
+- Exploitable: UB and Compiler Optimizations
+- Theory: Address Sanitizer
+- Exploit: Heartbleed
+- Theory: Fuzzing (on Linux)
+- Theory: Debugging in gdb
+
+### Day 2 - Stack Buffer Overflow, Shellcode and Good Practices
+
+- Mitigations: Stack Buffer Overflow
+- Exploit: Shellcode 1 (on Linux)
+- Exploit: Shellcode 2 (on Linux)
+- Practice: Secure Coding Practices 1
 - Discussion: Conclusion
 
 [1]: https://zoom.us/
