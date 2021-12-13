@@ -1,9 +1,9 @@
 header {
-    display: none
+    display: none;
 }
 
 nav {
-    display: none
+    display: none;
 }
 
 .image.main {
@@ -11,5 +11,9 @@ nav {
 }
 
 footer {
-    display: none
+    display: none;
+}
+
+#copyright {
+    display: none;
 }
