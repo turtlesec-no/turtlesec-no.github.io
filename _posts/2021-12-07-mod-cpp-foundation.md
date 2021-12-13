@@ -9,6 +9,9 @@ image: "/images/escalator-g8eb8146cb_1920.1000.jpg"
 
 ## Mod(C++) Fundamentals
 
+Mod(C++) Fundamentals is a two-day training course. It is ideal for new hires that have little 
+to no experience in C++.
+
 ### Introduction to C++
 
 _**Mod(C++) Fundamentals**_ is a two-day training course. It is ideal for new hires

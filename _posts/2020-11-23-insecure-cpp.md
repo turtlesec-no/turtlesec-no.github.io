@@ -9,6 +9,7 @@ image: "/images/aker_brygge.1000.jpg"
 
 ## (In)Security in C++
 
+Training aimed at providing a foundation for C++ programmers in security for native applications.
 This training can be done as a 4-day or a 2-day training.
 
 ### Secure Coding Practices in C++
