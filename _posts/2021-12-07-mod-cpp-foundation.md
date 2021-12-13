@@ -9,14 +9,13 @@ image: "/images/escalator-g8eb8146cb_1920.1000.jpg"
 
 ## Mod(C++) Fundamentals
 
-Mod(C++) Fundamentals is a two-day training course. It is ideal for new hires that have little 
-to no experience in C++.
+_**Mod(C++) Fundamentals**_ is a two-day training course. It is tailored to give new hires an 
+introduction to modern C++.
 
 ### Introduction to C++
 
-_**Mod(C++) Fundamentals**_ is a two-day training course. It is ideal for new hires
-that have little to no experience in C++, but are proficient in an Object Oriented
-Programming language, like Java or C#.
+_**Mod(C++) Fundamentals**_ is ideal for people who have little to no experience in C++, but are
+proficient in an Object Oriented Programming language, like Java or C#.
 
 _**Mod(C++) Fundamentals**_ should ideally be taken before [_**Mod(C++)
 Intermediate**_](../mod-cpp-intermediate/), another two-day course which expands
