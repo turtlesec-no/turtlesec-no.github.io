@@ -4,7 +4,7 @@ title:  "Trainings starting 2019"
 date:   2018-10-16
 description: TurtleSec is offering trainings
 excerpt: "TurtleSec is offering three new types of trainings, starting winter/spring 2019"
-image: "/images/operahouse-338256_1920.jpg"
+image: "/images/operahouse-338256_1920.1000.jpg"
 ---
 
 ## Secure Coding Practices in C++
