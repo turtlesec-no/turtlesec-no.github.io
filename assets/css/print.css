@@ -6,6 +6,10 @@ nav {
     display: none
 }
 
+.image.main {
+    display: none;
+}
+
 footer {
     display: none
 }
