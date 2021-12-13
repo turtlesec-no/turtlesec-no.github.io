@@ -68,7 +68,6 @@ This training is explicitly targeted at C++ developers, though C developers will
 - Exploit: Format Strings (on Linux)
 - Practice: Secure Coding Practices 1
 - Discussion: Security Culture
-- Practice: Make It Fixable
 
 ### Day 4 - Memory, Heap Exploitation and Conclusion
 
