@@ -26,9 +26,9 @@ kramdown:
   toc_levels:       1..6
   enable_coderay:   false
 mathjax:            true
-sass:
-  sass_dir:         _sass
-  style:            compressed
+#sass:
+#  sass_dir:         _sass
+#  style:            compressed
 
 # Social
 analytics-id:       "default"
