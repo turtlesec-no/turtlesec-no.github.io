@@ -1,0 +1,40 @@
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+.item_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: space-around;
+}
+
+.item {
+    flex-grow: 0; /* default 0 */
+    flex-shrink: 1; /* default 1 */
+    flex-basis: 30%; /* default auto */
+
+}
+
+@media screen and (min-width: 1800px) {
+    .item {
+        flex-basis: 18%; /* 5 items */
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    .item {
+        flex-basis: 30%; /* 3 items */
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .item {
+        flex-basis: 45%; /* 2 items */
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .item {
+        flex-basis: 100%; /* 1 item */
+    }
+}
