@@ -11,7 +11,7 @@ changefreq: weekly
   <h1>The Trainings</h1>
 </header>
 
-<span class="image fit"><img src="{{ "/images/barcode.1000.jpg" | absolute_url }}" alt="" /></span>
+<span class="image fit"><img src="{{ "/images/barcode.1000.jpg" | absolute_url }}" alt="Bar Code buildings in Oslo" /></span>
 
 *The trainings available on site at the customer or online*
 
