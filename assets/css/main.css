@@ -42,10 +42,6 @@ table {
     border-spacing: 0;
 }
 
-body {
-    -webkit-text-size-adjust: none;
-}
-
 /* Box Model */
 
 *, *:before, *:after {
@@ -53,14 +49,6 @@ body {
 }
 
 /* Basic */
-
-@-ms-viewport {
-    width: device-width;
-}
-
-body {
-    -ms-overflow-style: scrollbar;
-}
 
 @media screen and (max-width: 480px) {
 
@@ -227,7 +215,6 @@ code {
 }
 
 pre {
-    -webkit-overflow-scrolling: touch;
     font-family: "Courier New", monospace;
     font-size: 0.9rem;
     margin: 0 0 2rem 0;
@@ -900,7 +887,6 @@ header.major .date:before, header.major .date:after {
 /* Table */
 
 .table-wrapper {
-    -webkit-overflow-scrolling: touch;
     overflow-x: auto;
 }
 
