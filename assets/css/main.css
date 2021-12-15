@@ -49,8 +49,6 @@ body {
 /* Box Model */
 
 *, *:before, *:after {
-    -moz-box-sizing: border-box;
-    -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
 
@@ -77,13 +75,7 @@ body {
 }
 
 body.is-loading *, body.is-loading *:before, body.is-loading *:after {
-    -moz-animation: none !important;
-    -webkit-animation: none !important;
-    -ms-animation: none !important;
     animation: none !important;
-    -moz-transition: none !important;
-    -webkit-transition: none !important;
-    -ms-transition: none !important;
     transition: none !important;
 }
 
@@ -129,9 +121,6 @@ body, input, select, textarea {
 }
 
 a {
-    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     border-bottom: dotted 1px;
     text-decoration: none;
@@ -339,13 +328,7 @@ input[type="reset"],
 input[type="button"],
 button,
 .button {
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    -ms-appearance: none;
     appearance: none;
-    -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
     border: 0;
     cursor: pointer;
@@ -470,9 +453,6 @@ button.disabled,
 button:disabled,
 .button.disabled,
 .button:disabled {
-    -moz-pointer-events: none;
-    -webkit-pointer-events: none;
-    -ms-pointer-events: none;
     pointer-events: none;
     opacity: 0.25;
 }
@@ -523,8 +503,6 @@ button.special:hover,
 }
 
 .icon:before {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
@@ -612,16 +590,10 @@ a.image {
 }
 
 a.image img {
-    -moz-transition: -moz-transform 0.2s ease-out;
-    -webkit-transition: -webkit-transform 0.2s ease-out;
-    -ms-transition: -ms-transform 0.2s ease-out;
     transition: transform 0.2s ease-out;
 }
 
 a.image:hover img {
-    -moz-transform: scale(1.05);
-    -webkit-transform: scale(1.05);
-    -ms-transform: scale(1.05);
     transform: scale(1.05);
 }
 
@@ -689,9 +661,6 @@ ul.icons li .icon:before {
 }
 
 ul.icons.alt li .icon:before {
-    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     font-size: 1rem;
 }
@@ -1031,9 +1000,6 @@ table.alt tbody tr td {
 
 .pagination {
     display: inline-flex;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
     user-select: none;
     cursor: default;
     list-style: none;
@@ -1042,9 +1008,6 @@ table.alt tbody tr td {
 }
 
 .pagination a, .pagination span {
-    -moz-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    -ms-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
     border: solid 2px;
     display: inline-block;
@@ -1068,8 +1031,6 @@ table.alt tbody tr td {
 }
 
 .pagination .next:before, .pagination .previous:before {
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-font-smoothing: antialiased;
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
@@ -1137,9 +1098,6 @@ table.alt tbody tr td {
 /* Wrapper */
 
 #wrapper {
-    -moz-transition: opacity 0.5s ease;
-    -webkit-transition: opacity 0.5s ease;
-    -ms-transition: opacity 0.5s ease;
     transition: opacity 0.5s ease;
     position: relative;
     z-index: 1;
@@ -1168,17 +1126,8 @@ table.alt tbody tr td {
 }
 
 #wrapper.fade-in:before {
-    -moz-pointer-events: none;
-    -webkit-pointer-events: none;
-    -ms-pointer-events: none;
     pointer-events: none;
-    -moz-transition: opacity 1s ease-in-out;
-    -webkit-transition: opacity 1s ease-in-out;
-    -ms-transition: opacity 1s ease-in-out;
     transition: opacity 1s ease-in-out;
-    -moz-transition-delay: 0.75s;
-    -webkit-transition-delay: 0.75s;
-    -ms-transition-delay: 0.75s;
     transition-delay: 0.75s;
     background: #1e252d;
     content: '';
@@ -1208,25 +1157,10 @@ body.is-loading #wrapper.fade-in:before {
 #intro {
     color: var(--main-fg-color);
     padding: 8rem 4rem 6rem 4rem;
-    -moz-align-items: center;
-    -webkit-align-items: center;
-    -ms-align-items: center;
     align-items: center;
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
     display: flex;
-    -moz-flex-direction: column;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
     flex-direction: column;
-    -moz-justify-content: -moz-flex-end;
-    -webkit-justify-content: -webkit-flex-end;
-    -ms-justify-content: -ms-flex-end;
     justify-content: flex-end;
-    -moz-transition: opacity 1s ease, -moz-transform 1s ease;
-    -webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
-    -ms-transition: opacity 1s ease, -ms-transform 1s ease;
     transition: opacity 1s ease, transform 1s ease;
     position: relative;
     cursor: default;
@@ -1324,52 +1258,31 @@ body.is-loading #wrapper.fade-in:before {
 }
 
 #intro + #header .logo {
-    -moz-transform: translateY(2rem);
-    -webkit-transform: translateY(2rem);
-    -ms-transform: translateY(2rem);
     transform: translateY(2rem);
     opacity: 0;
     visibility: hidden;
 }
 
 #intro.hidden {
-    -moz-pointer-events: none;
-    -webkit-pointer-events: none;
-    -ms-pointer-events: none;
     pointer-events: none;
-    -moz-transform: translateY(2rem);
-    -webkit-transform: translateY(2rem);
-    -ms-transform: translateY(2rem);
     transform: translateY(2rem);
-    -moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, visibility 0.5s;
-    -webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
-    -ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
     transition: opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
     opacity: 0;
     visibility: hidden;
 }
 
 #intro.hidden + #header .logo {
-    -moz-transform: translateY(0);
-    -webkit-transform: translateY(0);
-    -ms-transform: translateY(0);
     transform: translateY(0);
     opacity: 1;
     visibility: visible;
 }
 
 body.is-loading #intro {
-    -moz-transform: translateY(2rem);
-    -webkit-transform: translateY(2rem);
-    -ms-transform: translateY(2rem);
     transform: translateY(2rem);
     opacity: 0;
 }
 
 body.is-loading #intro:not(.hidden) + #header + #nav {
-    -moz-transform: translateY(4rem);
-    -webkit-transform: translateY(4rem);
-    -ms-transform: translateY(4rem);
     transform: translateY(4rem);
     opacity: 0;
 }
@@ -1419,29 +1332,11 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 
 #header {
     color: var(--main-fg-color);
-    -moz-align-items: center;
-    -webkit-align-items: center;
-    -ms-align-items: center;
     align-items: center;
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
     display: flex;
-    -moz-flex-direction: column;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
     flex-direction: column;
-    -moz-justify-content: -moz-flex-end;
-    -webkit-justify-content: -webkit-flex-end;
-    -ms-justify-content: -ms-flex-end;
     justify-content: flex-end;
-    -moz-pointer-events: none;
-    -webkit-pointer-events: none;
-    -ms-pointer-events: none;
     pointer-events: none;
-    -moz-user-select: none;
-    -webkit-user-select: none;
-    -ms-user-select: none;
     user-select: none;
     height: 20rem;
     padding-bottom: 8rem;
@@ -1486,13 +1381,7 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 }
 
 #header .logo {
-    -moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -moz-transform 0.5s ease, visibility 0.5s;
-    -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
-    -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
     transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
-    -moz-pointer-events: auto;
-    -webkit-pointer-events: auto;
-    -ms-pointer-events: auto;
     pointer-events: auto;
     border-style: solid;
     border-color: var(--main-fg-color);
@@ -1537,13 +1426,7 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 
 #nav {
     color: var(--main-fg-color);
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
     display: flex;
-    -moz-transition: -moz-transform 1s ease, opacity 1s ease;
-    -webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
-    -ms-transition: -ms-transform 1s ease, opacity 1s ease;
     transition: transform 1s ease, opacity 1s ease;
     background: rgba(255, 255, 255, 0.175);
     height: 4rem;
@@ -1609,17 +1492,8 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 }
 
 #nav ul.links {
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
     display: flex;
-    -moz-flex-grow: 1;
-    -webkit-flex-grow: 1;
-    -ms-flex-grow: 1;
     flex-grow: 1;
-    -moz-flex-shrink: 1;
-    -webkit-flex-shrink: 1;
-    -ms-flex-shrink: 1;
     flex-shrink: 1;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-weight: 900;
@@ -1636,9 +1510,6 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 }
 
 #nav ul.links li a {
-    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     display: block;
     font-size: 0.8rem;
@@ -1664,13 +1535,7 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 }
 
 #nav ul.icons {
-    -moz-flex-grow: 0;
-    -webkit-flex-grow: 0;
-    -ms-flex-grow: 0;
     flex-grow: 0;
-    -moz-flex-shrink: 0;
-    -webkit-flex-shrink: 0;
-    -ms-flex-shrink: 0;
     flex-shrink: 0;
     margin-bottom: 0;
 }
@@ -1754,17 +1619,8 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 }
 
 #main > .posts {
-    display: -moz-flex;
-    display: -webkit-flex;
-    display: -ms-flex;
     display: flex;
-    -moz-flex-wrap: wrap;
-    -webkit-flex-wrap: wrap;
-    -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    -moz-align-items: stretch;
-    -webkit-align-items: stretch;
-    -ms-align-items: stretch;
     align-items: stretch;
     text-align: center;
     width: 100%;
@@ -1772,13 +1628,7 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 }
 
 #main > .posts > * {
-    -moz-flex-shrink: 1;
-    -webkit-flex-shrink: 1;
-    -ms-flex-shrink: 1;
     flex-shrink: 1;
-    -moz-flex-grow: 0;
-    -webkit-flex-grow: 0;
-    -ms-flex-grow: 0;
     flex-grow: 0;
 }
 
