@@ -33,7 +33,6 @@ blockquote, q {
 }
 
 blockquote:before, blockquote:after, q:before, q:after {
-    content: '';
     content: none;
 }
 
@@ -308,8 +307,6 @@ hr {
     border-color: #eeeeee;
 }
 
-
-
 /* Icon */
 
 .icon {
@@ -319,7 +316,7 @@ hr {
 }
 
 .icon:before {
-    font-family: FontAwesome;
+    font-family: FontAwesome, serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -846,7 +843,7 @@ table.alt tbody tr td {
 }
 
 .pagination .next:before, .pagination .previous:before {
-    font-family: FontAwesome;
+    font-family: FontAwesome, serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -1134,7 +1131,7 @@ body.is-loading #intro:not(.hidden) + #header + #nav {
 
     #intro p {
         font-size: 1rem;
-        margin-top: 0rem;
+        margin-top: 0;
     }
 
     #intro .actions {

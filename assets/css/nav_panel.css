@@ -25,7 +25,7 @@
 }
 
 #navPanelToggle:before {
-    font-family: FontAwesome;
+    font-family: FontAwesome, serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -96,7 +96,6 @@
     display: block;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-size: 0.9rem;
-    font-size: 0.9rem;
     font-weight: 900;
     letter-spacing: 0.075em;
     padding: 0.75rem 0;
@@ -126,7 +125,7 @@
 }
 
 #navPanel .close:before {
-    font-family: FontAwesome;
+    font-family: FontAwesome, serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;

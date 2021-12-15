@@ -132,7 +132,7 @@ textarea:invalid {
 }
 
 .select-wrapper:before {
-    font-family: FontAwesome;
+    font-family: FontAwesome, serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
@@ -194,7 +194,7 @@ input[type="radio"] + label {
 
 input[type="checkbox"] + label:before,
 input[type="radio"] + label:before {
-    font-family: FontAwesome;
+    font-family: FontAwesome, serif;
     font-style: normal;
     font-weight: normal;
     text-transform: none !important;
