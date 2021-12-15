@@ -6,75 +6,79 @@
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
   -->
 <html>
-  <head>
+<head>
     {% include head.html %}
 
-  </head>
-  <body class="is-loading">
+</head>
+<body class="is-loading">
 
-    <!-- Wrapper -->
-    <div id="wrapper" class="fade-in">
+<!-- Wrapper -->
+<div id="wrapper" class="fade-in">
 
-      <!-- Header -->
-      <header id="header">
-	<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-      </header>
+    <!-- Header -->
+    <header id="header">
+        <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+    </header>
 
-
-      <!-- Nav -->
-      <nav id="nav">
+    <!-- Nav -->
+    <nav id="nav">
 
         {% include nav.html %}
 
-	<ul class="icons">
-          <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
-	  <li><a href="https://www.linkedin.com/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span class="label">LinkedIn</span></a></li>
-          <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-	</ul>
-      </nav>
+        <ul class="icons">
+            <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span
+                    class="label">Twitter</span></a></li>
+            <li><a href="https://www.linkedin.com/{{site.linkedin}}" class="icon fa-linkedin" rel="nofollow"><span
+                    class="label">LinkedIn</span></a></li>
+            <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a>
+            </li>
+        </ul>
+    </nav>
 
-      <!-- Main -->
-      <div id="main">
+    <!-- Main -->
+    <div id="main">
 
         <article class="post featured">
-          <header class="major">
-            <h2><a href="#">TurtleSec Blog</a></h2>
-            <p>Our company blog</p>
-          </header>
-	  <p>
-	    Here we will post things that are happening or that we find interesting
-	  </p>
+            <header class="major">
+                <h2><a href="#">TurtleSec Blog</a></h2>
+                <p>Our company blog</p>
+            </header>
+            <p>
+                Here we will post things that are happening or that we find interesting
+            </p>
 
         </article>
-	<!-- Post -->
-	<section class="posts">
-	  {% for post in site.posts %}
-	  {% assign mod3 = forloop.index | modulo: 3 %}
-	  <article>
-	    <header>
-	      <span class="date">{{ post.date | date_to_string }}</span>
-	      <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-	    </header>
-	    <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-	    <p>{{ post.excerpt }}</p>
-	    <ul class="actions">
-	      <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-	    </ul>
-	  </article>
-	  {% endfor %}
 
-	</section>
+        <!-- Post -->
+        <section class="posts">
+            {% for post in site.posts %}
+            {% assign mod3 = forloop.index | modulo: 3 %}
+            <article>
+                <header>
+                    <span class="date">{{ post.date | date_to_string }}</span>
+                    <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                </header>
+                <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
+                                                                               alt=""/></a>
+                <p>{{ post.excerpt }}</p>
+                <ul class="actions">
+                    <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+                </ul>
+            </article>
+            {% endfor %}
 
-      </div>
-
-      <!-- Footer -->
-      {% include foot.html %}
+        </section>
 
     </div>
 
-    <!-- Scripts -->
-    {% include scripts-main.html %}
-    {% include tracking.html %}
+    <!-- Footer -->
+    {% include foot.html %}
 
-  </body>
+</div>
+
+<!-- Scripts -->
+{% include scripts-main.html %}
+{% include tracking.html %}
+
+</body>
 </html>
