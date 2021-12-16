@@ -4,7 +4,8 @@ title:  "(In)Security in C++"
 date:   2020-11-23
 description: Secure Coding Practices in C++
 excerpt: Training aimed at providing a foundation for C++ programmers in security for native applications.
-image: "/images/aker_brygge.1000.jpg"
+image: "/images/aker_brygge"
+image_alt: "View of Akerbrygge"
 ---
 
 ## (In)Security in C++

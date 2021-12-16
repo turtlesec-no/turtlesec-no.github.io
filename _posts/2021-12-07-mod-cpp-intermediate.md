@@ -4,7 +4,8 @@ title:  "Mod(C++) Intermediate"
 date:   2021-12-07
 description: More advanced topics
 excerpt: Mod(C++) Intermediate is a two day training course. It is ideal for people who have some C++ experience or that have taken Mod(C++) Fundamentals. 
-image: "/images/oslo-gf6008532f_1920.1000.jpg"
+image: "/images/oslo-gf6008532f_1920"
+image_alt: "Oslo Subway Escalator"
 ---
 
 ## Mod(C++) Intermediate

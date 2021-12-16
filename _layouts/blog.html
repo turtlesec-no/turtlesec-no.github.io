@@ -67,8 +67,12 @@
                     <span class="date">{{ post.date | date_to_string }}</span>
                     <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
                 </header>
-                <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}"
-                                                                               alt="Decoration"/></a>
+                <a href="{{ post.url | absolute_url }}" class="image fit">
+                    <picture>
+                        <source media="(max-width:600px)" srcset="{{ post.image | absolute_url }}.250.jpg">
+                        <img src="{{ post.image | absolute_url }}.500.jpg" alt="{{ post.image_alt }}" />
+                    </picture>
+                </a>
                 <p>{{ post.excerpt }}</p>
                 <ul class="actions">
                     <li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>

@@ -51,7 +51,13 @@
                 <h1>{{page.title}}</h1>
                 <p>{{page.excerpt}}</p>
             </header>
-            <div class="image main"><img src="{{page.image}}" alt="Decoration"></div>
+            <div class="image main">
+                <picture>
+                    <source media="(max-width:500px)" srcset="{{ page.image | absolute_url }}.250.jpg">
+                    <source media="(max-width:1000px)" srcset="{{ page.image | absolute_url }}.500.jpg">
+                    <img src="{{ page.image | absolute_url }}.1000.jpg" alt="{{ page.image_alt }}" />
+                </picture>
+            </div>
             <p>{{content}}</p>
         </section>
 

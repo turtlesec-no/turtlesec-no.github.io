@@ -73,7 +73,11 @@ changefreq: weekly
 	    <p>Professional Senior Consultants</p>
 	  </header>
 	  <a href="#" class="image main">
-		  <img src="{{ "/images/zebra.1000.jpeg" | absolute_url }}" alt="Graffiti depicting a Zebra in Oslo" />
+		  <picture>
+			  <source media="(max-width:500px)" srcset="/images/zebra.250.jpeg">
+			  <source media="(max-width:1000px)" srcset=/images/zebra.500.jpeg">
+			  <img src="/images/zebra.1000.jpeg" alt="Graffiti depicting a Zebra in Oslo" />
+		  </picture>
 	  </a>
 	  <p>Consulting services and training, remote or on-site in Oslo, Norway</p>
 
@@ -88,7 +92,10 @@ changefreq: weekly
 					  <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 				  </header>
 				  <a href="{{ post.url | absolute_url }}" class="image fit">
-					  <img src="{{ post.image | absolute_url }}" alt="Decoration"/>
+					  <picture>
+						  <source media="(max-width:600px)" srcset="{{ post.image | absolute_url }}.250.jpg">
+						  <img src="{{ post.image | absolute_url }}.500.jpg" alt="{{ post.image_alt }}" />
+					  </picture>
 				  </a>
 				  <p>{{ post.excerpt }}</p>
 				  <ul class="actions">
