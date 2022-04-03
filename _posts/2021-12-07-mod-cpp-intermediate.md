@@ -24,25 +24,38 @@ The exercises will be done in a CMake based project. The students will need a de
 environment, a rich IDE is recommended, for example Visual Studio Code and Jetbrains CLion. A GitHub
 account will be useful.
 
-Students are assumed to have some C++ experience or should have taken Mod(C++) Fundamentals. 
-They should be working in (or looking to work in) a C++ project.
+Students are assumed to have some C++ experience or should have taken Mod(C++) Fundamentals. They should be working in (
+or looking to work in) a C++ project.
 
 ### Trainers
 
-The course has been authored by Corentin Jabot and Patricia Aas. Between them they have almost 30
-years of experience in C++, working on everything from games to browsers and embedded.
+The course has been authored by Corentin Jabot and Patricia Aas. Between them they have almost 30 years of experience in
+C++, working on everything from games to browsers and embedded.
 
 ## Two-day training
 
-- Generic programming "thinking"
-- Introduction to concepts
-- Using parameter packs and fold expressions
-- Overloading, operators and special member functions, including Rule of Five/Three/Zero
+The Intermediate course gives the students a deeper understanding of how one should think and program in “Modern C++” (
+C++11/14/17/20). The exercises will all be based around a 2D graphics game inspired by Ms. Pac-Man. Topics covered in
+the course include:
+
+### Day 1 - Generic programming "thinking"
+
+- Introduction to the training Presentation of the project
+- Function overloading
+- Operators
+- Class templates, function templates, non-type parameters
+- Aliases and and alias templates
+- std::variant and std::visit
+- std::tuple and structured bindings
+- Variadic templates, fold expressions and parameter packs
+
+### Day 2 -Modern C++ Features
+
+- Ranges
+- std::string_view and std::span
+- Constexpr and Consteval
+- Concepts
+- Special member functions (Rule of Five/Zero)
 - Pragmatic introduction to move semantics and return value optimizations
-- constexpr functions and variables
-- Associative containers (std::unordered_map)
-- Structured bindings
-- C++ 20: Ranges
-- Riskier constructs in C++ and how to minimize their impact
-- Explaining Undefined Behavior, and how it affects safety and correctness
-- Safer handling of pointers, including std::string_view and std::span
+- Safety: Riskier constructs in C++ and how to minimize their impact
+- Conclusion and review
