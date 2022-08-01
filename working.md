@@ -4,7 +4,7 @@ title: "Working for TurtleSec"
 description: Benefits and Policies for TurtleSec Employees
 sitemap:
 priority: 0.7
-lastmod: 2021-04-26
+lastmod: 2022-08-01
 changefreq: weekly
 ---
 
@@ -112,13 +112,13 @@ Those numbers are presented here in these tables, one for a Bachelors degree and
 new Chart(document.getElementById("bar-chart-bachelor"), {
     type: 'bar',
     data: {
-      labels: ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21'],
+      labels: ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22'],
       datasets: [
        {
             barPercentage: 1.0,
             order: 1,
             label: 'Bachelor Salary',
-            data: [558,608,660,702,743,784,825,864,902,939,974,1004,1035,1061,1086,1107,1127,1148,1168,1189],
+            data: [566,617,669,712,754,795,837,876,915,953,988,1019,1050,1076,1102,1123,1143,1165,1185,1206,1218],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.5)',
                 'rgba(255, 159, 64, 0.5)',
@@ -143,14 +143,15 @@ new Chart(document.getElementById("bar-chart-bachelor"), {
                 'rgba(201, 203, 207, 0.5)',
                 'rgba(255, 99, 132, 0.5)',
                 'rgba(255, 159, 64, 0.5)',
-                'rgba(255, 205, 86, 0.5)'
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)'
             ],
         },
         {
             barPercentage: 1.0,
             order: 2,
             label: 'Bachelor Pension',
-            data: [39,43,46,49,52,62,73,82,92,101,110,118,125,132,138,143,148,154,159,164],
+            data: [40,43,47,50,53,56,67,77,86,96,105,113,120,127,133,139,144,149,154,160,163],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(255, 159, 64, 0.2)',
@@ -175,7 +176,8 @@ new Chart(document.getElementById("bar-chart-bachelor"), {
                 'rgba(201, 203, 207, 0.2)',
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(255, 159, 64, 0.2)',
-                'rgba(255, 205, 86, 0.2)'
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)'
             ],
         },
       ]
@@ -195,13 +197,13 @@ new Chart(document.getElementById("bar-chart-bachelor"), {
 new Chart(document.getElementById("bar-chart-master"), {
     type: 'bar',
     data: {
-      labels: ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21'],
+      labels: ['2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22'],
       datasets: [
        {
             barPercentage: 1.0,
             order: 1,
             label: 'Master Salary',
-            data: [610,660,712,754,795,836,877,916,954,991,1026,1056,1087,1113,1138,1159,1179,1200,1220,1241],
+            data: [619,669,722,765,706,848,890,929,968,1005,1041,1071,1103,1129,1155,1176,1196,1218,1238,1259,1272],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.5)',
                 'rgba(255, 159, 64, 0.5)',
@@ -226,14 +228,15 @@ new Chart(document.getElementById("bar-chart-master"), {
                 'rgba(201, 203, 207, 0.5)',
                 'rgba(255, 99, 132, 0.5)',
                 'rgba(255, 159, 64, 0.5)',
-                'rgba(255, 205, 86, 0.5)'
+                'rgba(255, 205, 86, 0.5)',
+                'rgba(75, 192, 192, 0.5)'
             ],
         },
         {
             barPercentage: 1.0,
             order: 2,
             label: 'Master Pension',
-            data: [43,46,50,55,65,75,86,95,105,114,123,131,138,145,151,156,161,167,172,177],
+            data: [43,47,51,54,59,70,80,90,100,109,118,126,134,140,147,152,157,163,168,173,176],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(255, 159, 64, 0.2)',
@@ -258,7 +261,8 @@ new Chart(document.getElementById("bar-chart-master"), {
                 'rgba(201, 203, 207, 0.2)',
                 'rgba(255, 99, 132, 0.2)',
                 'rgba(255, 159, 64, 0.2)',
-                'rgba(255, 205, 86, 0.2)'
+                'rgba(255, 205, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)'
             ],
         },
       ]
@@ -282,8 +286,8 @@ The pay for each employee is adjusted according to this system every year, no ad
 
 TurtleSec pays the highest allowed amount for your pension ("innskuddspensjon"), measured in the [index regulated G value][3]
 
-* 7% from 0 NOK to [7.1 G][3], *in 2021 this range is approx 0-743k NOK*
-* 25.1% from [7.1 G][3] to [12 G][3], *in 2021 this range is approx 743k-1.25m NOK*
+* 7% from 0 NOK to [7.1 G][3], *in 2022 this range is approx 0-791k NOK*
+* 25.1% from [7.1 G][3] to [12 G][3], *in 2022 this range is approx 791k-1.34m NOK*
 
 In addition to this the government pays an amount equivalent to 18.1% for salaries up to 7.1 G.
 
@@ -311,7 +315,7 @@ We follow the rules for sick leave which are outlined in ["Inkluderende Arbeidsl
 * This "care leave" can also be self-reported
 * You will receive your full salary during your self-reported illness or care leave
 * For illnesses beyond the self-reporting days above, a doctor's note can be supplied
-* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2021 it is [104.716 NOK][3])
+* For illnesses longer than 16 consecutive days, the state agency NAV will cover your salary up to 6 G (where a "G" is index regulated and in 2022 it is [111.477 NOK][3])
 
 #### Notes on Sick Leave
 
