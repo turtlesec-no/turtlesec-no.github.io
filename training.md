@@ -15,7 +15,7 @@ changefreq: weekly
 
 *The trainings available on site at the customer or online*
 
-## [(In)Security in C++ - Secure Coding Practices in C++](../blog/insecure-cpp/)
+## [(In)Secure C++ - Secure Coding Practices in C++](../blog/insecure-cpp/)
 
 Training aimed at providing a foundation for C++ programmers in security for native applications.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(In)Security in C++ : Sec Edition"
+title:  "(In)Secure C++ : Sec Edition"
 date:   2022-11-29
 description: Native Vulnerabilities
 excerpt: Training aimed at providing an introduction to vulnerabilities for native applications.
@@ -8,7 +8,7 @@ image: "/images/oslo-g0d4acfbda_640"
 image_alt: "Picture of a woman playing the violin projected on to an outcrop on the opera buildings roof"
 ---
 
-## (In)Security in C++ : Sec Edition
+## (In)Secure C++ : Sec Edition
 
 Training aimed at providing an introduction to finding and exploiting vulnerabilities in C and C++ applications.
 
