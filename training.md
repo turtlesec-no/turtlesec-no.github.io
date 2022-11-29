@@ -15,6 +15,10 @@ changefreq: weekly
 
 *The trainings available on site at the customer or online*
 
+## [(In)Secure C++ - Sec Edition](../blog/insecure-cpp-sec-edition/)
+
+Training aimed at providing an introduction for security professionals to the area of security for native applications.
+
 ## [(In)Secure C++ - Secure Coding Practices in C++](../blog/insecure-cpp/)
 
 Training aimed at providing a foundation for C++ programmers in security for native applications.
