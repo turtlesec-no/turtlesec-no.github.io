@@ -32,7 +32,7 @@ Over the next few years we want to continue to build a team that reflects the so
 
 ### What do we do?
 
-Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our clients security posture. We are focused on programming in a DevOps oriented organization. Each contract is generally around 6-12 months and are often extended. As a TurtleSec employee you will have a lot of influence on which type of contracting work you would like to do, for which client and the duration you want to stay there.
+Most of our income comes from contracting work (often called consulting in Norway) for clients. The contracts are often regular software development contracts, but we also bring with us our secondary skill-set in security and try to use that to improve our client's security posture. We are focused on programming in a DevOps-oriented organization. Our contracts are generally around 6-12 months and are often extended. As a TurtleSec employee you will have a lot of influence over which type of contracting work you would like to do, for which client and the duraction of your stay there.
 
 We also do trainings and workshops primarily in the area of secure programming and culture.
 
@@ -58,11 +58,11 @@ The company is privately owned by Patricia Aas and Dag Fridtun and has no invest
 
 ### Company structure
 
-The CEO of TurtleSec is Dag Fridtun and the Chair of the board is Patricia Aas, they are both also employees and work for clients as all other employees.
+The CEO of TurtleSec is Dag Fridtun and the Chair of the board is Patricia Aas, they are both also employees and work for clients, like all other employees.
 
 ## Learning
 
-In a field which requires us to be up to date on technologies that are constantly evolving, it is important to invest in our employees' development.
+In a field which requires us to be up-to-date on technologies that are constantly evolving, it is important to invest in our employees' development.
 
 ### Conferences
 
@@ -78,7 +78,7 @@ All books or online resources will be covered by TurtleSec.
 
 ### Equipment
 
-Company laptop, noise cancelling headphones, mobile phone and subscription are all provided by TurtleSec. Other equipment needed will also be provided, also for the home office, examples include external screens, adaptors, camera, microphone etc.
+Company laptop, noise-cancelling headphones, mobile phone and subscription are all provided by TurtleSec. Other equipment needed will also be provided, also for the home office, examples include external screens, adaptors, camera, microphone etc.
 
 ### Open Source
 
