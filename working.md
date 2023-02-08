@@ -82,7 +82,7 @@ Company laptop, noise-cancelling headphones, mobile phone and subscription are a
 
 ### Open Source
 
-Employees are encouraged to contribute to OSS and Open Source should be the default for anything we develop outside of client owned software.
+Employees are encouraged to contribute to OSS and Open Source should be the default for anything we develop aside from client-owned software.
 
 ### Between clients
 
@@ -339,7 +339,7 @@ The Norwegian government will cover up to [6 G][3] of your pay during your paren
 
 ### Notice Period
 
-As is the norm in Norway there are two different lengths of notice when one resigns, during your trial period this is customarily shorter. The short notice period during the trial period is mainly to allow the employee to change their mind. There are still strong protections against firings even in the trial period.
+As is the norm in Norway, there are two different lengths of notice when one resigns, during your trial period this is customarily shorter. The short notice period during the trial period is mainly to allow the employee to change their mind. There are still strong protections against firings even in the trial period.
 
 * Notice during trial period: 2 weeks
 * Notice after trial period: 3 months starting from the first day of the following calendar month
@@ -350,7 +350,7 @@ As is the norm in Norway there are two different lengths of notice when one resi
 
 ### Remote
 
-Usually we will work at the clients' offices, if the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
+Usually we will work at the clients' offices. If the client permits we can also work remotely. How that is structured will depend on the client and the employee. We hope to have regular days where we work from the TurtleSec office so that we can get to know each other better.
 
 ### Travel
 
@@ -362,7 +362,7 @@ All public-facing information at TurtleSec is as a rule in English, informal com
 
 ### Tech Unions in Norway
 
-Depending on ones level of education there are different options in Norway for unions.
+Depending on one's level of education there are different options in Norway for unions.
 
 - Masters: [Tekna][6]
 - Masters and Bachelors: [NITO][7]
