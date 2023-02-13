@@ -46,7 +46,7 @@ We know that developing and maintaining a skill-set is crucial for having a care
 
 ### Office
 
-Our office is in an old building from 1880 close to St. Olavs plass in downtown Oslo, Norway. Buses, trams, subways and trains are within walking distance. The office has two roomy team offices with high ceilings, original hardwood floors and crown molding. It also has a meeting room, a kitchen area and a unisex toilet. A shower is in the basement, but this is shared with other tenants. Bicycle parking is in the courtyard which also has a garden. The building and its neighbor have a lot of artists as tenants, so it is normal to see art lying around.
+Our office is in an old building from 1880 close to St. Olavs plass in downtown Oslo, Norway. Buses, trams, subways and trains are within walking distance. The office has three roomy team offices with high ceilings, original hardwood floors and crown molding. It also has a kitchen area and a unisex toilet. A shower is in the basement, but this is shared with other tenants. Bicycle parking is in the courtyard which also has a garden. The building and its neighbor have a lot of artists as tenants, so it is normal to see art lying around.
 
 ### Charity
 
