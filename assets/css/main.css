@@ -129,12 +129,20 @@ p {
     margin: 0 0 2rem 0;
 }
 
-h1, h2, h3, h4, h5, h6, figcaption {
+h1, h2, h3, h4, h5, h6 {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     font-weight: 900;
     line-height: 1.5;
     letter-spacing: 0.075em;
     text-transform: uppercase;
+    margin: 0 0 1rem 0;
+}
+
+figcaption {
+    font-family: "Merriweather", "Source Sans Pro", Helvetica, sans-serif;
+    font-weight: 100;
+    line-height: 1.5;
+    letter-spacing: 0.075em;
     margin: 0 0 1rem 0;
 }
 
