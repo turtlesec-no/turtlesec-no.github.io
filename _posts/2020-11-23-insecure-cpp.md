@@ -13,6 +13,26 @@ image_alt: "View of Akerbrygge"
 Training aimed at providing a foundation for C++ programmers in security for native applications.
 This training can be done as a 4-day or a 2-day training.
 
+<p>For private trainings, online or on-site, please get in touch for an offer.</p>
+
+<h2 id="public_training">Upcoming public trainings</h2>
+
+<h3>Europe (CET) </h3>
+
+<h4>2023</h4>
+
+<ul>
+    <li>Aug 8th  - Aug 11th (9am - 17pm CET) - <b>Online</b>  - <a href="../blog/insecure-cpp/">(In)Secure C++, 4-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book (In)Secure C%2B%2B (Aug 8th - Aug 11th)">Book 2000€</a>]</b></li>
+</ul>
+
+<h3>USA (PST)</h3>
+
+<h4>2023</h4>
+
+<ul>
+    <li>Oct 31st - Nov 3rd (8am - 16pm PST) - <b>Online</b> - <a href="../blog/insecure-cpp/">(In)Secure C++, 4-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book (In)Secure C%2B%2B (Oct 31st - Nov 3rd)">Book 2000$</a>]</b></li>
+</ul>
+
 ### Secure Coding Practices in C++
 
 The training will provide its students with:
