@@ -11,7 +11,26 @@ image_alt: "Oslo Subway Escalator"
 ## Mod(C++) Intermediate
 
 _**Mod(C++) Intermediate**_ is a two day training course. It is ideal for people who have some C++
-experience or that have taken [_**Mod(C++) Fundamentals**_](../mod-cpp-foundation/).
+experience or that have taken [_**Mod(C++) Fundamentals**_](../mod-cpp-foundation/). For private 
+trainings, online or on-site, please get in touch for an offer.
+
+<h2 id="public_training">Upcoming public trainings</h2>
+
+<h3>Europe (CET) </h3>
+
+<h4>2023</h4>
+
+<ul>
+    <li>Nov 15th - Nov 16th (9am - 17pm CET) - <b>Online</b>  - <a href="../blog/mod-cpp-intermediate/">Mod(C++) Intermediate, 2-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book Mod(C%2B%2B) Intermediate (Nov 15th - 16th)">Book 1250€</a>]</b> </li>
+</ul>
+
+<h3>USA (PST)</h3>
+
+<h4>2024</h4>
+
+<ul>
+    <li>March 18th - March 19th (8am - 16pm PST) - <b>Online</b> - <a href="../blog/mod-cpp-intermediate/">Mod(C++) Intermediate, 2-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book Mod(C%2B%2B) Intermediate (March 18th - 19th)">Book 1250$</a>]</b> </li>
+</ul>
 
 ### More advanced topics
 
