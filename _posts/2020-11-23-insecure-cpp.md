@@ -2,16 +2,18 @@
 layout: post
 title:  "(In)Secure C++"
 date:   2020-11-23
-description: Secure Coding Practices in C++
-excerpt: Training aimed at providing a foundation for C++ programmers in security for native applications.
+description: Understanding Exploitation to Find and Fix Vulnerabilities
+excerpt: 4-day workshop in finding, exploiting and fixing vulnerabilities in C++ and C code.
 image: "/images/aker_brygge"
 image_alt: "View of Akerbrygge"
 ---
 
 ## (In)Secure C++
 
-4-day training aimed at providing a foundation for C++ programmers in security for native 
-applications. For private trainings, online or on-site, please get in touch for an offer.
+The 4-day (In)Secure C++ training is designed to provide you with the essential knowledge and tools
+to effectively find and fix vulnerabilities in your own C++ and C code.
+
+For private trainings, online or on-site, please get in touch for an offer.
 
 <h2 id="public_training">Upcoming public trainings</h2>
 
@@ -31,76 +33,91 @@ applications. For private trainings, online or on-site, please get in touch for 
     <li>Oct 31st - Nov 3rd (8am - 16pm PST) - <b>Online</b> - <a href="../blog/insecure-cpp/">(In)Secure C++, 4-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book (In)Secure C%2B%2B (Oct 31st - Nov 3rd)">Book 2000$</a>]</b></li>
 </ul>
 
-### Secure Coding Practices in C++
+### Understanding Exploitation to Find and Fix Vulnerabilities
 
-The training will provide its students with:
+The (In)Secure C++ training is designed to provide you with the essential knowledge and tools to
+effectively find and fix vulnerabilities in your own C++ and C code. To do this, we demystify
+exploitation by showcasing that it is a mindset, not just a set of techniques.
 
-- vocabulary to understand reported vulnerabilities
-- knowledge on how to receive vulnerability reports professionally
-- knowledge on how to use tools to find and fix vulnerabilities in their own code
-- knowledge on how to design a more secure product
-- knowledge on how to design a CI/CD pipeline that will improve the security of their own codebase
+You'll gain insights into the motivations behind mitigations in platforms, languages,
+and tools by understanding the vulnerabilities they are trying to protect against. You'll get a
+deeper understanding into why C++ and C are not easy to reason about. With our training, you'll
+learn how to design a more secure product, how establish a robust CI/CD pipeline that improves the
+security of your codebase and how to find and fix vulnerabilities in your own codebase before others
+do. And if others find them first, how to understand their vulnerability reports and how to
+receive and respond to them in a professional manner.
+
+Throughout the four-day training, you'll dive deep into various topics, including fuzzing,
+sanitizers, buffer overflows, remote code execution, custom shellcode, reverse engineering,
+sandboxing as a security boundary, return-oriented programming, format string vulnerabilities, heap
+exploitation, good coding practices and establishing a security culture. Each day is carefully
+crafted to provide you with practical knowledge, real-world examples, and hands-on exercises.
 
 ### Practical information
 
 The training can be done both remotely and on-site. When done remotely this setup is used:
 
-- **Audio/Video** - [Zoom][1] + [Zoom Breakout Rooms][2]: Can be attended from a browser or a Zoom client
-- **Chat** - [Slack][3]: Will be setup a week in advance to facilitate resolving of any technical issue
-- **Exercises** - Cloud VMs and a [Cyber Dojo][4] cloud instance: guarantees same environment
+- **Audio/Video** - [Google Meet][1] + Breakout Rooms (for online trainings)
+- **Chat** - [Slack][2]: Will be setup a week in advance to facilitate resolving of any 
+  technical issue, used during the training to pace exercises and facilitate discussions.
+- **Exercises** - Individual Ubuntu 22.04 cloud VMs and a [Cyber Dojo][3] cloud instance 
+  guarantees the same environment for all students.
 
 This training is explicitly targeted at C++ developers, though C developers will also benefit.
 
-### Goals of the training
+### Some of the topics covered
 
-- Demystify exploitation, show that exploitation is a mindset, not a set of techniques
-- Demonstrate the motivation for mitigations in the platforms, languages and tools
-- Show that C++ and C are not easy to reason about
-- Teach the students to recognize constructs that have a higher risk of having vulnerabilities
-- Teach the students which tools can be used to find bugs before others find them
-- Teach the students about tools they can use locally while coding
-- Teach the students about tools they can integrate in their CI/CD pipeline
-- Help them think about how security fits into the team context
-- Help them view their application in a new ways
+* __Fuzzing and Sanitizers__: How to use tools like Address Sanitizer and fuzzers like AFL/libFuzzer
+  to find and fix security vulnerabilities. Here you will use fuzzing to find the Heartbleed
+  vulnerability in OpenSSL and fix it.
+* __Exploiting Buffer Overflows with Custom Exploit Shellcode__: How to exploit buffer overflows and
+  execute arbitrary code, and the mitigations that can help prevent it from happening. Here you will
+  exploit a program with your own custom shellcode.
+* __Return Oriented Programming (ROP) and Format Strings__: How to bypass stack protection
+  mechanisms using ROP and generated ROP chains. And we'll use format string vulnerabilities as an
+  example of a completely different way of exploiting applications.
+* __Memory Managers and Heap Exploitation__: How to understand and manipulate the memory layout and
+  exploit heap-based vulnerabilities.
+* __Reverse Engineering and Sandboxing__: How to analyze binary code and use sandboxing techniques
+  to isolate untrusted code.
+* __Secure Coding Practices__: How to write more secure C++ code and avoid common pitfalls.
 
-## Four day training
+## 4-day training
 
-### Day 1 - Introduction, Fuzzing and Numbers
+### Day 1 - Finding Vulnerabilities Using Fuzzing
 
-- Meta: Training
-- Theory: Introduction and Specs
-- Mitigations: Tooling
-- Exploitable: UB and Compiler Optimizations
-- Theory: Address Sanitizer
-- Exploit: Heartbleed
-- Theory: Fuzzing (on Linux)
-- Theory: Debugging in gdb
+- Introduction and Setup
+- Introduction to exploitation, vulnerabilities and specifications
+- Mitigations and Tooling: Static and Dynamic Analysis
+- Undefined Behaviour and Compiler Optimizations
+- Address Sanitizer
+- Case Study: Heartbleed
+- Fuzzing: AFL and libFuzzer
+- Debugging Shellcode in GDB
 
-### Day 2 - Stack Buffer Overflow, Shellcode, Reverse Engineering and Sandboxing on Linux
+### Day 2 - Exploitation and Writing Shellcode
 
-- Mitigations: Stack Buffer Overflow
-- Exploit: Shellcode 1 (on Linux)
-- Exploit: Shellcode 2 (on Linux)
-- Theory: Reverse Engineering
-- Theory: Linux Sandboxing (Examples from Chromium)
+- Vulnerability: Stack Buffer Overflow
+- Exploitation: Writing and Testing Custom Shellcode
+- Reverse Engineering
+- Sandboxing on Linux (Examples from Chromium)
 
-### Day 3 - Return Oriented Programming, Format String Vulnerabilities, Good Practices and Security Culture
+### Day 3 - Mitigation Evasion and Secure Coding Practices
 
-- Exploit: Return Oriented Programming (ROP)
-- Exploit: Format Strings (on Linux)
-- Practice: Secure Coding Practices 1
-- Discussion: Security Culture
+- Exploitation: Return Oriented Programming (ROP)
+- Exploitation: Format String Exploitation
+- Secure Coding Practices, Mitigations and Tooling - Part 1
+- Security Culture
 
-### Day 4 - Memory, Heap Exploitation and Conclusion
+### Day 4 - Heap Exploitation
 
-- Theory: Memory Managers (on Linux)
-- Theory: Heap Exploitation
-- Exploit: Eternal Exploits
-- Practice: Secure Coding Practices 2
-- Practice: 6 Hacks for Dev[Sec]Ops
-- Discussion: Conclusion
+- Vulnerability: Memory Managers and Heap Allocation
+- Exploitation: Heap Exploitation
+- Case Study: Eternal Exploits
+- Secure Coding Practices, Mitigations and Tooling - Part 2
+- Dev[Sec]Ops
+- Summary and Conclusion
 
-[1]: https://zoom.us/
-[2]: https://youtu.be/jbPpdyn16sY
-[3]: https://slack.com/intl/en-no/
-[4]: https://cyber-dojo.org/
+[1]: https://meet.google.com/
+[2]: https://slack.com/intl/en-no/
+[3]: https://cyber-dojo.org/
