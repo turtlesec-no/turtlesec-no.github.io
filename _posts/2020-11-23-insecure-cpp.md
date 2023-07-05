@@ -3,7 +3,7 @@ layout: post
 title:  "(In)Secure C++"
 date:   2020-11-23
 description: Understanding Exploitation to Find and Fix Vulnerabilities
-excerpt: 4-day workshop in finding, exploiting and fixing vulnerabilities in C++ and C code.
+excerpt: 4-day workshop on finding, exploiting and fixing vulnerabilities in C++ and C code.
 image: "/images/aker_brygge"
 image_alt: "View of Akerbrygge"
 ---

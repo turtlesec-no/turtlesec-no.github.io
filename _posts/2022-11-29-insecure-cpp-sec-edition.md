@@ -3,7 +3,7 @@ layout: post
 title:  "(In)Secure C++ : Sec Edition"
 date:   2022-11-29
 description: Understanding Exploitation and Finding Vulnerabilities
-excerpt: 2-day workshop in finding and exploiting vulnerabilities in C++ and C code.
+excerpt: 2-day workshop on finding and exploiting vulnerabilities in C++ and C code.
 image: "/images/oslo-g0d4acfbda_640"
 image_alt: "Picture of a woman playing the violin projected on to an outcrop on the opera buildings roof"
 ---
