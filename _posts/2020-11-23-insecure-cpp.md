@@ -41,7 +41,7 @@ exploitation by showcasing that it is a mindset, not just a set of techniques.
 
 You'll gain insights into the motivations behind mitigations in platforms, languages,
 and tools by understanding the vulnerabilities they are trying to protect against. You'll get a
-deeper understanding into why C++ and C are not easy to reason about. With our training, you'll
+deeper understanding of why C++ and C are not easy to reason about. With our training, you'll
 learn how to design a more secure product, how to establish a robust CI/CD pipeline that
 improves the security of your codebase and how to find and fix vulnerabilities in your own codebase
 before others do. And if others find them first, how to understand their vulnerability reports and
@@ -61,7 +61,7 @@ The training can be done both remotely and on-site. When done remotely this setu
 
 - **Audio/Video** - [Google Meet][1] + Breakout Rooms (for online trainings)
 - **Chat** - [Slack][2]: Will be set up a week in advance to facilitate the resolution of any
-  technical issue, and is used during the training to pace exercises and facilitate discussions.
+  technical issues, and is used during the training to pace exercises and facilitate discussions.
 - **Exercises** - Individual Ubuntu 22.04 cloud VMs and a [Cyber Dojo][3] cloud instance 
   guarantees the same environment for all students.
 
@@ -69,7 +69,9 @@ The training can be done both remotely and on-site. When done remotely this setu
 
 * __Fuzzing and Sanitizers__: How to use tools like Address Sanitizer and fuzzers like AFL/libFuzzer
   to find and fix security vulnerabilities. Here you will use fuzzing to find the Heartbleed
-  vulnerability in OpenSSL and fix it.
+  vulnerability in OpenSSL. You will also be tasked with fixing Heartbleed, and then reviewing
+  the fix that was shipped at the time, to get a realistic impression of how difficult it can be
+  to analyze and fix vulnerabilities in real life scenarios.
 * __Exploiting Buffer Overflows with Custom Exploit Shellcode__: How to exploit buffer overflows and
   execute arbitrary code, and the mitigations that can help prevent it from happening. Here you will
   exploit a program with your own custom shellcode.
@@ -77,10 +79,12 @@ The training can be done both remotely and on-site. When done remotely this setu
   mechanisms using ROP and generated ROP chains. And we'll use format string vulnerabilities as an
   example of a completely different way of exploiting applications.
 * __Memory Managers and Heap Exploitation__: How to understand and manipulate the memory layout and
-  exploit heap-based vulnerabilities.
+  exploit heap-based vulnerabilities. Here we will look at things like Heap Spraying, Heap Feng 
+  Shui, Use After Free, Heap Buffer Overflow and different techniques for getting code execution 
+  on the heap.
 * __Reverse Engineering and Sandboxing__: How to analyze binary code and use sandboxing techniques
   to isolate untrusted code.
-* __Secure Coding Practices__: How to write more secure C++ code and avoid common pitfalls.
+* __Secure Coding Practices__: How to write more secure C++ code and to avoid common pitfalls.
 
 ## Training Schedule
 

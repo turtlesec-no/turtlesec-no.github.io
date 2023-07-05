@@ -32,7 +32,7 @@ The training can be done both remotely and on-site. When done remotely this setu
 
 - **Audio/Video** - [Google Meet][1] + Breakout Rooms (for online trainings)
 - **Chat** - [Slack][2]: Will be set up a week in advance to facilitate the resolution of any
-  technical issue, and is used during the training to pace exercises and facilitate discussions.
+  technical issues, and is used during the training to pace exercises and facilitate discussions.
 - **Exercises** - Individual Ubuntu 22.04 cloud VMs and a [Cyber Dojo][3] cloud instance
   guarantees the same environment for all students.
 
@@ -40,7 +40,9 @@ The training can be done both remotely and on-site. When done remotely this setu
 
 * __Fuzzing and Sanitizers__: How to use tools like Address Sanitizer and fuzzers like AFL/libFuzzer
   to find and fix security vulnerabilities. Here you will use fuzzing to find the Heartbleed
-  vulnerability in OpenSSL and fix it.
+  vulnerability in OpenSSL. You will also be tasked with fixing Heartbleed, and then reviewing 
+  the fix that was shipped at the time, to get a realistic impression of how difficult it can be 
+  to analyze and fix vulnerabilities in real life scenarios.
 * __Exploiting Buffer Overflows with Custom Exploit Shellcode__: How to exploit buffer overflows and
   execute arbitrary code, and the mitigations that can help prevent it from happening. Here you will
   exploit a program with your own custom shellcode.
