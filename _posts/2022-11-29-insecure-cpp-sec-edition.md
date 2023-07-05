@@ -28,7 +28,7 @@ This training is explicitly targeted at C++ developers, though C developers will
 
 ### Practical information
 
-The training can be done both remotely and on-site. When done remotely this setup is used:
+The training can be done both remotely and on-site.
 
 - **Audio/Video** - [Google Meet][1] + Breakout Rooms (for online trainings)
 - **Chat** - [Slack][2]: Will be set up a week in advance to facilitate the resolution of any
