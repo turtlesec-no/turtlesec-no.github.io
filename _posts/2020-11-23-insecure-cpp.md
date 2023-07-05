@@ -42,10 +42,10 @@ exploitation by showcasing that it is a mindset, not just a set of techniques.
 You'll gain insights into the motivations behind mitigations in platforms, languages,
 and tools by understanding the vulnerabilities they are trying to protect against. You'll get a
 deeper understanding into why C++ and C are not easy to reason about. With our training, you'll
-learn how to design a more secure product, how establish a robust CI/CD pipeline that improves the
-security of your codebase and how to find and fix vulnerabilities in your own codebase before others
-do. And if others find them first, how to understand their vulnerability reports and how to
-receive and respond to them in a professional manner.
+learn how to design a more secure product, how to establish a robust CI/CD pipeline that
+improves the security of your codebase and how to find and fix vulnerabilities in your own codebase
+before others do. And if others find them first, how to understand their vulnerability reports and
+how to receive and respond to them in a professional manner.
 
 Throughout the four-day training, you'll dive deep into various topics, including fuzzing,
 sanitizers, buffer overflows, remote code execution, custom shellcode, reverse engineering,
@@ -53,17 +53,17 @@ sandboxing as a security boundary, return-oriented programming, format string vu
 exploitation, good coding practices and establishing a security culture. Each day is carefully
 crafted to provide you with practical knowledge, real-world examples, and hands-on exercises.
 
+This training is explicitly targeted at C++ developers, though C developers will also benefit.
+
 ### Practical information
 
 The training can be done both remotely and on-site. When done remotely this setup is used:
 
 - **Audio/Video** - [Google Meet][1] + Breakout Rooms (for online trainings)
-- **Chat** - [Slack][2]: Will be setup a week in advance to facilitate resolving of any 
-  technical issue, used during the training to pace exercises and facilitate discussions.
+- **Chat** - [Slack][2]: Will be set up a week in advance to facilitate the resolution of any
+  technical issue, and is used during the training to pace exercises and facilitate discussions.
 - **Exercises** - Individual Ubuntu 22.04 cloud VMs and a [Cyber Dojo][3] cloud instance 
   guarantees the same environment for all students.
-
-This training is explicitly targeted at C++ developers, though C developers will also benefit.
 
 ### Some of the topics covered
 
@@ -82,7 +82,7 @@ This training is explicitly targeted at C++ developers, though C developers will
   to isolate untrusted code.
 * __Secure Coding Practices__: How to write more secure C++ code and avoid common pitfalls.
 
-## 4-day training
+## Training Schedule
 
 ### Day 1 - Finding Vulnerabilities Using Fuzzing
 

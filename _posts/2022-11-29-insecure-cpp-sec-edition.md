@@ -24,17 +24,17 @@ By deepening your understanding of exploitation, the motivations driving mitigat
 identification of high-risk constructs, you will be able to design software that better meets 
 your security needs.
 
+This training is explicitly targeted at C++ developers, though C developers will also benefit.
+
 ### Practical information
 
 The training can be done both remotely and on-site. When done remotely this setup is used:
 
 - **Audio/Video** - [Google Meet][1] + Breakout Rooms (for online trainings)
-- **Chat** - [Slack][2]: Will be setup a week in advance to facilitate resolving of any
-  technical issue, used during the training to pace exercises and facilitate discussions.
+- **Chat** - [Slack][2]: Will be set up a week in advance to facilitate the resolution of any
+  technical issue, and is used during the training to pace exercises and facilitate discussions.
 - **Exercises** - Individual Ubuntu 22.04 cloud VMs and a [Cyber Dojo][3] cloud instance
   guarantees the same environment for all students.
-
-This training is explicitly targeted at C++ developers, though C developers will also benefit.
 
 ### Some of the topics covered
 
@@ -48,7 +48,7 @@ This training is explicitly targeted at C++ developers, though C developers will
   mechanisms using ROP and generated ROP chains. And we'll use format string vulnerabilities as an
   example of a completely different way of exploiting applications.
 
-## Two-day training
+## Training Schedule
 
 ### Day 1 - Finding Vulnerabilities Using Fuzzing
 
