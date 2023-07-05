@@ -36,22 +36,23 @@ For private trainings, online or on-site, please get in touch for an offer.
 ### Understanding Exploitation to Find and Fix Vulnerabilities
 
 The (In)Secure C++ training is designed to provide you with the essential knowledge and tools to
-effectively find and fix vulnerabilities in your own C++ and C code. To do this, we demystify
-exploitation by showcasing that it is a mindset, not just a set of techniques.
+effectively find and fix vulnerabilities in your own C++ and C code. To do this, we __*demystify
+exploitation*__ by showcasing that it is a mindset, not just a set of techniques.
 
-You'll gain insights into the motivations behind mitigations in platforms, languages,
+You'll gain insights into the __*motivations behind mitigations*__ in platforms, languages,
 and tools by understanding the vulnerabilities they are trying to protect against. You'll get a
 deeper understanding of why C++ and C are not easy to reason about. With our training, you'll
 learn how to design a more secure product, how to establish a robust CI/CD pipeline that
-improves the security of your codebase and how to find and fix vulnerabilities in your own codebase
-before others do. And if others find them first, how to understand their vulnerability reports and
-how to receive and respond to them in a professional manner.
+improves the security of your codebase and __*how to find and fix vulnerabilities in your own 
+codebase before others do*__. And if others find them first, how to understand their vulnerability 
+reports and how to receive and respond to them in a professional manner.
 
 Throughout the four-day training, you'll dive deep into various topics, including fuzzing,
 sanitizers, buffer overflows, remote code execution, custom shellcode, reverse engineering,
-sandboxing as a security boundary, return-oriented programming, format string vulnerabilities, heap
-exploitation, good coding practices and establishing a security culture. Each day is carefully
-crafted to provide you with practical knowledge, real-world examples, and hands-on exercises.
+sandboxing as a security boundary, return-oriented programming (ROP), format string 
+vulnerabilities, heap exploitation, good coding practices and establishing a security culture. Each
+day is carefully crafted to provide you with __*practical knowledge, real-world examples, and 
+hands-on exercises.*__
 
 This training is explicitly targeted at C++ developers, though C developers will also benefit.
 
