@@ -36,8 +36,6 @@ The training can be done both remotely and on-site. When done remotely this setu
 
 This training is explicitly targeted at C++ developers, though C developers will also benefit.
 
-### Goals of the training
-
 ### Some of the topics covered
 
 * __Fuzzing and Sanitizers__: How to use tools like Address Sanitizer and fuzzers like AFL/libFuzzer
