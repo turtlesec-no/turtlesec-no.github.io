@@ -15,14 +15,6 @@ introduction to modern C++. For private trainings, online or on-site, please get
 
 <h2 id="public_training">Upcoming public trainings</h2>
 
-<h3>Europe (CET) </h3>
-
-<h4>2023</h4>
-
-<ul>
-    <li>Sep 18th - Sep 19th (9am - 17pm CET) - <b>On-site</b> - <a href="https://ndctechtown.com/workshops/mod-cpp-fundamentals/83384ede1410">NDC TechTown: Mod(C++) Fundamentals, 2-day</a> <b>[<a href="https://ndctechtown.com/tickets">Tickets</a>]</b></li>
-</ul>
-
 <h3>USA (PST)</h3>
 
 <h4>2024</h4>
