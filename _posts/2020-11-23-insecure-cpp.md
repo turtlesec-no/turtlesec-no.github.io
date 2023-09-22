@@ -17,14 +17,6 @@ For private trainings, online or on-site, please get in touch for an offer.
 
 <h2 id="public_training">Upcoming public trainings</h2>
 
-<h3>Europe (CET) </h3>
-
-<h4>2023</h4>
-
-<ul>
-    <li>Aug 8th  - Aug 11th (9am - 17pm CET) - <b>Online</b>  - <a href="../blog/insecure-cpp/">(In)Secure C++, 4-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book (In)Secure C%2B%2B (Aug 8th - Aug 11th)">Book 2000€</a>]</b></li>
-</ul>
-
 <h3>USA (PST)</h3>
 
 <h4>2023</h4>
