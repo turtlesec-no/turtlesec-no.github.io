@@ -104,7 +104,6 @@ The training can be done both remotely and on-site.
 - Exploitation: Return Oriented Programming (ROP)
 - Exploitation: Format String Exploitation
 - Secure Coding Practices, Mitigations and Tooling - Part 1
-- Security Culture
 
 ### Day 4 - Heap Exploitation
 
@@ -112,7 +111,7 @@ The training can be done both remotely and on-site.
 - Exploitation: Heap Exploitation
 - Case Study: Eternal Exploits
 - Secure Coding Practices, Mitigations and Tooling - Part 2
-- Dev[Sec]Ops
+- Practice: Vulnerability Management
 - Summary and Conclusion
 
 [1]: https://meet.google.com/
