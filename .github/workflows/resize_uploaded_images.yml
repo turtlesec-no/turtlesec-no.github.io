@@ -30,6 +30,7 @@ jobs:
 
     - name: Commit image files
       working-directory: images
+      if: ${{ github.ref_name == 'main' }}
       run: | 
         git config user.email "bot@turtlesec.no"
         git config user.name "Turtle Bot (GitHub Action)"
@@ -38,3 +39,11 @@ jobs:
           git commit -m "Updated image files"
           git push
         fi
+
+    - name: Store images
+      uses: actions/upload-artifact@v3
+      if: ${{ github.ref_name != 'main' }} && ${{ always() }}
+      with:
+        retention-days: 1
+        name: images
+        path: images/
