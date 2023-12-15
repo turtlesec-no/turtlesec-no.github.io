@@ -42,7 +42,7 @@ jobs:
 
     - name: Store images
       uses: actions/upload-artifact@v3
-      if: steps.scale.outputs.scaled == '2' && ${{ github.ref_name != 'main' }}
+      if: ${{ steps.scale.outputs.scaled == '2' }} && ${{ github.ref_name != 'main' }}
       with:
         retention-days: 1
         name: images
