@@ -42,7 +42,7 @@ jobs:
 
     - name: Store images
       uses: actions/upload-artifact@v3
-      if: ${{ github.ref_name != 'main' }} && ${{ always() }}
+      if: ${{ github.ref_name != 'main' }}
       with:
         retention-days: 1
         name: images
