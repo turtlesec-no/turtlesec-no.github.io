@@ -4,7 +4,7 @@ on: push
 
 jobs:
   scale_images:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
 
     steps:
     - name: Checkout
@@ -12,7 +12,7 @@ jobs:
 
     - name: Run scaling step
       id: scale
-      uses: turtlesec-no/scale-images@v1.0
+      uses: turtlesec-no/scale-images@master
       with:
        image-folder: 'images'
 
@@ -39,11 +39,3 @@ jobs:
           git commit -m "Updated image files"
           git push
         fi
-
-    - name: Store images
-      uses: actions/upload-artifact@v3
-      if: steps.scale.outputs.scaled == '2'
-      with:
-        retention-days: 1
-        name: images
-        path: images/
