@@ -14,23 +14,33 @@ _**Mod(C++) Intermediate**_ is a two day training course. It is ideal for people
 experience or that have taken [_**Mod(C++) Fundamentals**_](../mod-cpp-foundation/). For private 
 trainings, online or on-site, please get in touch for an offer.
 
-<h2 id="public_training">Upcoming public trainings</h2>
+[//]: # (<h2 id="public_training">Upcoming public trainings</h2>)
 
-<h3>Europe (CET) </h3>
+[//]: # ()
+[//]: # (<h3>Europe &#40;CET&#41; </h3>)
 
-<h4>2023</h4>
+[//]: # ()
+[//]: # (<h4>2023</h4>)
 
-<ul>
-    <li>Nov 15th - Nov 16th (9am - 17pm CET) - <b>Online</b>  - <a href="../blog/mod-cpp-intermediate/">Mod(C++) Intermediate, 2-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book Mod(C%2B%2B) Intermediate (Nov 15th - 16th)">Book 1250€</a>]</b> </li>
-</ul>
+[//]: # ()
+[//]: # (<ul>)
 
-<h3>USA (PST)</h3>
+[//]: # (    <li>Nov 15th - Nov 16th &#40;9am - 17pm CET&#41; - <b>Online</b>  - <a href="../blog/mod-cpp-intermediate/">Mod&#40;C++&#41; Intermediate, 2-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book Mod&#40;C%2B%2B&#41; Intermediate &#40;Nov 15th - 16th&#41;">Book 1250€</a>]</b> </li>)
 
-<h4>2024</h4>
+[//]: # (</ul>)
 
-<ul>
-    <li>March 18th - March 19th (8am - 16pm PST) - <b>Online</b> - <a href="../blog/mod-cpp-intermediate/">Mod(C++) Intermediate, 2-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book Mod(C%2B%2B) Intermediate (March 18th - 19th)">Book 1250$</a>]</b> </li>
-</ul>
+[//]: # ()
+[//]: # (<h3>USA &#40;PST&#41;</h3>)
+
+[//]: # ()
+[//]: # (<h4>2024</h4>)
+
+[//]: # ()
+[//]: # (<ul>)
+
+[//]: # (    <li>March 18th - March 19th &#40;8am - 16pm PST&#41; - <b>Online</b> - <a href="../blog/mod-cpp-intermediate/">Mod&#40;C++&#41; Intermediate, 2-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book Mod&#40;C%2B%2B&#41; Intermediate &#40;March 18th - 19th&#41;">Book 1250$</a>]</b> </li>)
+
+[//]: # (</ul>)
 
 ### More advanced topics
 

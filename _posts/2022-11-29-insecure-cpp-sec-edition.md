@@ -16,15 +16,20 @@ exploited.
 
 For private trainings, online or on-site, please get in touch for an offer.
 
-<h2 id="public_training">Upcoming public trainings</h2>
+[//]: # (<h2 id="public_training">Upcoming public trainings</h2>)
 
-<h3>Europe (CET) </h3>
+[//]: # ()
+[//]: # (<h3>Europe &#40;CET&#41; </h3>)
 
-<h4>2024</h4>
+[//]: # ()
+[//]: # (<h4>2024</h4>)
 
-<ul>
-    <li>Jan 8th - Jan 9th (9am - 17pm CET) - <b>On-site</b> - <a href="https://ndc-security.com/workshops/in-secure-cpp-sec-edition/688aae9be97f">NDC Security: (In)Secure C++: Sec Edition, 2-day</a> <b>[<a href="https://ndctechtown.com/tickets">Tickets</a>]</b></li>
-</ul>
+[//]: # ()
+[//]: # (<ul>)
+
+[//]: # (    <li>Jan 8th - Jan 9th &#40;9am - 17pm CET&#41; - <b>On-site</b> - <a href="https://ndc-security.com/workshops/in-secure-cpp-sec-edition/688aae9be97f">NDC Security: &#40;In&#41;Secure C++: Sec Edition, 2-day</a> <b>[<a href="https://ndctechtown.com/tickets">Tickets</a>]</b></li>)
+
+[//]: # (</ul>)
 
 ### Understanding Exploitation and Finding Vulnerabilities
 

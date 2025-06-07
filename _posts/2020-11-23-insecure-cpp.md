@@ -15,15 +15,20 @@ to effectively find and fix vulnerabilities in your own C++ and C code.
 
 For private trainings, online or on-site, please get in touch for an offer.
 
-<h2 id="public_training">Upcoming public trainings</h2>
+[//]: # (<h2 id="public_training">Upcoming public trainings</h2>)
 
-<h3>USA (PST)</h3>
+[//]: # ()
+[//]: # (<h3>USA &#40;PST&#41;</h3>)
 
-<h4>2023</h4>
+[//]: # ()
+[//]: # (<h4>2023</h4>)
 
-<ul>
-    <li>Oct 31st - Nov 3rd (8am - 16pm PST) - <b>Online</b> - <a href="../blog/insecure-cpp/">(In)Secure C++, 4-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book (In)Secure C%2B%2B (Oct 31st - Nov 3rd)">Book 2000$</a>]</b></li>
-</ul>
+[//]: # ()
+[//]: # (<ul>)
+
+[//]: # (    <li>Oct 31st - Nov 3rd &#40;8am - 16pm PST&#41; - <b>Online</b> - <a href="../blog/insecure-cpp/">&#40;In&#41;Secure C++, 4-day</a> <b>[<a href="mailto:patricia@turtlesec.no?subject=Book &#40;In&#41;Secure C%2B%2B &#40;Oct 31st - Nov 3rd&#41;">Book 2000$</a>]</b></li>)
+
+[//]: # (</ul>)
 
 ### Understanding Exploitation to Find and Fix Vulnerabilities
 
